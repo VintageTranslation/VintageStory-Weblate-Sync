@@ -119,7 +119,8 @@
     {
         "name": "CAN Jewelry",
         "modid": "canjewelry",
-        "version": "0.5.8"
+        "version": "0.5.9",
+        "lastUpdated": "2025-11-01"
     },
     {
         "name": "ShearLib",
@@ -267,7 +268,8 @@
     {
         "name": "Brain Freeze",
         "modid": "brainfreeze",
-        "version": "1.3.1"
+        "version": "1.3.2",
+        "lastUpdated": "2025-11-01"
     },
     {
         "name": "Cartwright's Caravan",
@@ -277,7 +279,8 @@
     {
         "name": "Craftable Cartography Fork",
         "modid": "craftablecartographyfork",
-        "version": "0.1.8"
+        "version": "0.1.9",
+        "lastUpdated": "2025-11-01"
     },
     {
         "name": "Enhanced Handbook",
