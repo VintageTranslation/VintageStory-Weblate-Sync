@@ -236,7 +236,7 @@ async Task UpdateMods()
 
             var isFirstTime = string.IsNullOrWhiteSpace(currentVersion);
             var shouldUpdate = false;
-            
+
             if (isFirstTime)
             {
                 shouldUpdate = true;
@@ -256,7 +256,7 @@ async Task UpdateMods()
             Log($"⬇️  Downloading version {latestVersion} from {fileUrl}", ConsoleColor.Blue);
             Directory.CreateDirectory(modFolder);
             var tmp = Path.GetTempFileName();
-            
+
             try
             {
                 var zipBytes = await http.GetByteArrayAsync(fileUrl);
@@ -373,7 +373,7 @@ async Task UpdateMods()
         else
         {
             total++;
-            if (plVal != null && !string.IsNullOrWhiteSpace(plVal.ToString()))
+            if (plVal != null && plVal.ToString() != "")
             {
                 translated++;
             }
@@ -388,7 +388,7 @@ string ComputeJsonHash(NJson.Linq.JObject json)
     NJson.Linq.JObject NormalizeJson(NJson.Linq.JObject obj)
     {
         var normalized = new NJson.Linq.JObject();
-        
+
         foreach (var prop in obj.Properties().OrderBy(p => p.Name))
         {
             if (prop.Value is NJson.Linq.JObject nestedObj)
@@ -400,14 +400,14 @@ string ComputeJsonHash(NJson.Linq.JObject json)
                 normalized[prop.Name] = prop.Value;
             }
         }
-        
+
         return normalized;
     }
-    
+
     var normalizedJson = NormalizeJson(json);
     var jsonText = normalizedJson.ToString(NJson.Formatting.None);
     var bytes = Encoding.UTF8.GetBytes(jsonText);
-    
+
     using var sha256 = SHA256.Create();
     var hashBytes = sha256.ComputeHash(bytes);
     return Convert.ToHexString(hashBytes).ToLowerInvariant();
@@ -430,7 +430,7 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
 
     var packName = $"PolishTranslationsPack_v{version}";
     var buildDir = Path.Combine(distDir, packName);
-    
+
     if (Directory.Exists(buildDir))
         Directory.Delete(buildDir, true);
     Directory.CreateDirectory(buildDir);
@@ -528,7 +528,7 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
         {
             var plFile = plFiles[i];
             var plData = NJson.Linq.JObject.Parse(File.ReadAllText(plFile));
-            
+
             var relativePath = plFile.Replace(modFolder, "").Replace("\\", "/").TrimStart('/');
             if (relativePath.Contains("assets/"))
             {
@@ -553,16 +553,16 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
     {
         var targetPath = Path.Combine(buildDir, relativePath.Replace("/", Path.DirectorySeparatorChar.ToString()));
         Directory.CreateDirectory(Path.GetDirectoryName(targetPath)!);
-        
+
         var jsonText = JsonHelper.FormatJson(mergedData);
         File.WriteAllText(targetPath, jsonText, new UTF8Encoding(false));
     }
 
     var completeMods = modStats.Where(s => s.complete).OrderBy(s => s.name).ToList();
     var incompleteMods = modStats.Where(s => !s.complete).OrderBy(s => s.name).ToList();
-    
+
     var (changelogForZip, changelogForDist) = BuildChangelog(version, completeMods, incompleteMods, distDir);
-    
+
     var changelogFilePath = Path.Combine(distDir, $"changelog_{version}.txt");
     File.WriteAllText(changelogFilePath, changelogForDist, new UTF8Encoding(false));
     File.WriteAllText(Path.Combine(buildDir, "changelog.txt"), changelogForZip, new UTF8Encoding(false));
@@ -578,7 +578,7 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
         {
             var entryName = Path.GetRelativePath(buildDir, file).Replace("\\", "/");
             var entry = archive.CreateEntry(entryName, CompressionLevel.SmallestSize);
-            
+
             using var entryStream = entry.Open();
             using var fileStream = File.OpenRead(file);
             fileStream.CopyTo(entryStream);
@@ -616,7 +616,7 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
 
     Log($"\n✅ Built pack: {zipPath}", ConsoleColor.Green);
     Log($"📝 Changelog: {changelogFilePath}", ConsoleColor.Gray);
-    
+
     if (completeMods.Any())
     {
         Log($"\n✅ Complete mods ({completeMods.Count}):", ConsoleColor.Green);
@@ -625,7 +625,7 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
             Log($"   - {stat.name}: {stat.translated}/{stat.total} translated", ConsoleColor.Gray);
         }
     }
-    
+
     if (incompleteMods.Any())
     {
         Log($"\n⚠️  Incomplete mods ({incompleteMods.Count}):", ConsoleColor.DarkYellow);
@@ -643,7 +643,7 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
     string distDir)
 {
     var historyPath = Path.Combine(distDir, Paths.BuildHistory);
-    
+
     Dictionary<string, (string version, string hash)>? previousMods = null;
     if (File.Exists(historyPath))
     {
@@ -651,12 +651,12 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
         {
             var historyText = File.ReadAllText(historyPath);
             var history = NJson.Linq.JArray.Parse(historyText);
-            
+
             if (history.Count > 0)
             {
                 var lastBuild = history[0] as NJson.Linq.JObject;
                 var mods = lastBuild?["mods"] as NJson.Linq.JArray;
-                
+
                 if (mods != null)
                 {
                     previousMods = new Dictionary<string, (string version, string hash)>();
@@ -692,7 +692,7 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
         else
         {
             var (previousVersion, previousHash) = previousMods[mod.name];
-            
+
             if (previousVersion != mod.version)
             {
                 updatedMods.Add((mod.name, previousVersion, mod.version));
@@ -778,7 +778,7 @@ void SaveBuildHistory(string version, List<(string name, string version, string 
     try
     {
         var historyPath = Path.Combine(distDir, Paths.BuildHistory);
-        
+
         NJson.Linq.JArray history;
         if (File.Exists(historyPath))
         {
@@ -931,7 +931,7 @@ class ModsDatabase
 
     public NJson.Linq.JObject? FindByName(string name)
     {
-        return _mods.FirstOrDefault(m => 
+        return _mods.FirstOrDefault(m =>
             string.Equals(m["name"]?.ToString(), name, StringComparison.OrdinalIgnoreCase));
     }
 
