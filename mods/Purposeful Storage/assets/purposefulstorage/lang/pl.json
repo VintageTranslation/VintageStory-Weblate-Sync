@@ -22,7 +22,7 @@
     "block-schematicrack-*": "Pulpit na schemat",
     "block-saddlerack-*": "Stojak na siodło",
     "block-medallionrack-*": "Gablota na medaliony",
-    "helddesc-wardrobe": "Może przechowywać większość ubrań górnych partii ciała oraz butów!",
+    "helddesc-wardrobe": "Może przechowywać większość rodzajów odzieży górnej i dolnej, a także większość obuwia!",
     "helddesc-hatrack": "Może przechowywać większość kapeluszy!",
     "helddesc-blanketrack": "Może przechowywać wszystkie czapraki!",
     "helddesc-shoerack": "Może przechowywać wszystkie buty!",
@@ -39,5 +39,8 @@
     "helddesc-butterflydisplaypanel": "Wyeksponuj swoje motyle!",
     "helddesc-schematicrack": "Wyeksponuj swoje schematy!",
     "helddesc-saddlerack": "Uwolnij swojego wierzchowca od siodła!",
-    "helddesc-medallionrack": "Wyeksponuj medaliony przynależności, broszki, przypinki i odznaki!"
+    "helddesc-medallionrack": "Wyeksponuj medaliony przynależności, broszki, przypinki i odznaki!",
+    "block-spearrack-*": "Stojak na włócznie",
+    "helddesc-spearrack": "Zostaw swoje włócznie w łatwo dostępnym miejscu!",
+    "This item is not of the same type as the item in the container!": "Ten przedmiot nie jest tego samego typu co przedmiot w pojemniku!"
 }

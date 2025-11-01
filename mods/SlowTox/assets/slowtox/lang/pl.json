@@ -20,5 +20,6 @@
     "slowtox:Config.Setting.IgnoreSmallDamageChanceMax": "Maksymalna szansa na zignorowanie niewielkich obrażeń",
     "slowtox:Config.Setting.WalkSpeedPenaltyIntoxBeginApply": "Poziom odurzenia, przy którym zaczyna obowiązywać kara do prędkości chodzenia",
     "slowtox:Config.Setting.WalkSpeedPenaltyIntoxFullApply": "Poziom odurzenia, przy którym kara do prędkości chodzenia jest maksymalna",
-    "slowtox:Config.Setting.WalkSpeedPenaltyMax": "Maksymalna kara do prędkości chodzenia wynikająca z odurzenia"
+    "slowtox:Config.Setting.WalkSpeedPenaltyMax": "Maksymalna kara do prędkości chodzenia wynikająca z odurzenia",
+    "slowtox:Config.Setting.HabitualToleranceChangeRate": "Tempo, w jakim tolerancja dostosowuje się w oparciu o nawyki"
 }
