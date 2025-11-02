@@ -17,5 +17,21 @@
     "item-compassframe-*": "Ramka kompasu",
     "item-sextantparts-*": "Części sekstantu",
     "game:tabname-navigation": "Nawigacja",
-    "itemdesc-compass-*": "Pokazuje dokładny kierunek w stopniach względem północy."
+    "itemdesc-compass-*": "Pokazuje dokładny kierunek w stopniach względem północy.",
+    "use-sextant": "Użyj sekstantu",
+    "size-map": "Skala",
+    "heldhelp-drawmap": "Rysuj mapę",
+    "drawn-map": "Narysowana mapa",
+    "empty-map": "Pusta mapa",
+    "clear-map": "Wyczyść mapę",
+    "save-map": "Zapisz",
+    "fuel-time": "Pozostało energii na {0} dni i {1:0.#} godzin",
+    "refuel": "Dodaj zębatkę temporalną, aby uzupełnić energię",
+    "command-setreading": "Podaj współrzędne swojego ostatniego odczytu kilofa geologicznego, by dodać go do mapy",
+    "command-setreading-success": "Ostatni odczyt kilofa geologicznego został dodany do mapy na koordynatach {x}, {y}, {z}",
+    "command-setreading-error": "Brak odczytu do dodania!",
+    "enter-setreading": "Podaj współrzędne za pomocą /setreading, aby zapisać odczyt na mapie",
+    "command-setJPSchannel": "Ustaw kanał JPS (do udostępniania lokalizacji innym graczom)",
+    "command-setJPSchannel-result": "Kanał JPS zmieniony na '",
+    "show-player-error": "Nie można dodać gracza {0} do mapy świata, brak takiej postaci :<"
 }
