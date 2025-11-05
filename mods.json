@@ -77,7 +77,8 @@
     {
         "name": "ImGui",
         "modid": "vsimgui",
-        "version": "1.1.14"
+        "version": "1.1.15",
+        "lastUpdated": "2025-11-05"
     },
     {
         "name": "Workbench Expansion Patch",
@@ -223,7 +224,8 @@
     {
         "name": "Feverstone's Horses",
         "modid": "feverstonehorses",
-        "version": "2.0.11-rc.1"
+        "version": "2.2.0",
+        "lastUpdated": "2025-11-05"
     },
     {
         "name": "A Panserbjørn Story",
@@ -371,7 +373,8 @@
     {
         "name": "Wear And Tear",
         "modid": "wearandtear",
-        "version": "1.5.16"
+        "version": "1.5.17",
+        "lastUpdated": "2025-11-05"
     },
     {
         "name": "Wind Chimes",
