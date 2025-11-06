@@ -413,6 +413,81 @@ string ComputeJsonHash(NJson.Linq.JObject json)
     return Convert.ToHexString(hashBytes).ToLowerInvariant();
 }
 
+string? BuildTranslationReloader(string baseDir, string version)
+{
+    var reloaderDir = Path.Combine(baseDir, Paths.TranslationReloaderFolder);
+
+    if (!Directory.Exists(reloaderDir))
+    {
+        Log($"⚠️  TranslationReloader folder not found at {reloaderDir}", ConsoleColor.DarkYellow);
+        return null;
+    }
+
+    var csprojPath = Path.Combine(reloaderDir, "TranslationReloader.csproj");
+    if (!File.Exists(csprojPath))
+    {
+        Log($"⚠️  TranslationReloader.csproj not found", ConsoleColor.DarkYellow);
+        return null;
+    }
+
+    try
+    {
+        Log($"🔨 Building TranslationReloader...", ConsoleColor.Cyan);
+
+        // Build the C# project
+        var processInfo = new System.Diagnostics.ProcessStartInfo
+        {
+            FileName = "dotnet",
+            Arguments = $"build \"{csprojPath}\" -c Release --nologo",
+            WorkingDirectory = reloaderDir,
+            RedirectStandardOutput = true,
+            RedirectStandardError = true,
+            UseShellExecute = false,
+            CreateNoWindow = true
+        };
+
+        using var process = System.Diagnostics.Process.Start(processInfo);
+        if (process == null)
+        {
+            Log($"❌ Failed to start dotnet build", ConsoleColor.Red);
+            return null;
+        }
+
+        var output = process.StandardOutput.ReadToEnd();
+        var error = process.StandardError.ReadToEnd();
+        process.WaitForExit();
+
+        if (process.ExitCode != 0)
+        {
+            Log($"❌ TranslationReloader build failed:", ConsoleColor.Red);
+            if (!string.IsNullOrWhiteSpace(output))
+                Log(output, ConsoleColor.Gray);
+            if (!string.IsNullOrWhiteSpace(error))
+                Log(error, ConsoleColor.Red);
+            return null;
+        }
+
+        Log($"✅ TranslationReloader built successfully", ConsoleColor.Green);
+
+        // Return path to the DLL
+        var binDir = Path.Combine(reloaderDir, "bin", "Release");
+        var dllPath = Path.Combine(binDir, "TranslationReloader.dll");
+
+        if (!File.Exists(dllPath))
+        {
+            Log($"❌ TranslationReloader.dll not found: {dllPath}", ConsoleColor.Red);
+            return null;
+        }
+
+        return dllPath;
+    }
+    catch (Exception ex)
+    {
+        Log($"❌ Error building TranslationReloader: {ex.Message}", ConsoleColor.Red);
+        return null;
+    }
+}
+
 void BuildModPack(string? versionArg, bool saveHistory = true)
 {
     if (string.IsNullOrWhiteSpace(versionArg))
@@ -441,10 +516,11 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
 
     var modInfo = new NJson.Linq.JObject
     {
-        ["type"] = "content",
+        ["type"] = "code",
+        ["side"] = "client",
         ["name"] = "Polish Translations Pack",
         ["modid"] = "polishtranslationspack",
-        ["description"] = "Polish Translations Pack - a collection of Polish localizations for various Vintage Story mods.",
+        ["description"] = "Polish Translations Pack - a collection of Polish localizations for various Vintage Story mods with automatic translation reload system.",
         ["website"] = "https://mods.vintagestory.at/polishtranslationspack",
         ["version"] = version,
         ["authors"] = new NJson.Linq.JArray(authors),
@@ -567,6 +643,9 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
     File.WriteAllText(changelogFilePath, changelogForDist, new UTF8Encoding(false));
     File.WriteAllText(Path.Combine(buildDir, "changelog.txt"), changelogForZip, new UTF8Encoding(false));
 
+    // Build TranslationReloader mod if available
+    var reloaderDllPath = BuildTranslationReloader(baseDir, version);
+
     var zipPath = Path.Combine(distDir, $"{packName}.zip");
     if (File.Exists(zipPath)) File.Delete(zipPath);
 
@@ -592,6 +671,17 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
             using var fileStream = File.OpenRead(modiconPath);
             fileStream.CopyTo(entryStream);
             Log($"🖼️  Added {Paths.ModIcon}", ConsoleColor.Gray);
+        }
+
+        // Add TranslationReloader DLL directly to the mod root
+        if (reloaderDllPath != null && File.Exists(reloaderDllPath))
+        {
+            var dllFileName = Path.GetFileName(reloaderDllPath);
+            var entry = archive.CreateEntry(dllFileName, CompressionLevel.SmallestSize);
+            using var entryStream = entry.Open();
+            using var fileStream = File.OpenRead(reloaderDllPath);
+            fileStream.CopyTo(entryStream);
+            Log($"🔧 Added {dllFileName}", ConsoleColor.Cyan);
         }
     }
 
@@ -887,6 +977,7 @@ static class Paths
     public const string ModsFolder = "mods";
     public const string GameFolder = "game";
     public const string DistFolder = "dist";
+    public const string TranslationReloaderFolder = "TranslationReloader";
 }
 
 class ModsDatabase

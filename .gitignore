@@ -1,21 +1,32 @@
 # Node.js / TypeScript
 node_modules/
-dist/
 *.tsbuildinfo
+
+# Build outputs
+dist/*.zip
+dist/PolishTranslationsPack_*/
+update-log.txt
+
+# TranslationReloader build outputs
+TranslationReloader/bin/
+TranslationReloader/obj/
+TranslationReloader/*.user
 
 # Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
-update-log.txt
 
 # OS/IDE specific
 .DS_Store
 Thumbs.db
 
-# VSCode
-.vscode/
+# VSCode (keep tasks and settings)
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
 # Backup files
 *.bak
@@ -23,3 +34,10 @@ Thumbs.db
 *~
 
 .idea/
+
+# Keep dist folder structure but ignore ZIP files
+!dist/
+!dist/build-history.json
+!dist/changelog_*.txt
+
+dist/
