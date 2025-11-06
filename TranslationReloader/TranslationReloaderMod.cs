@@ -8,19 +8,17 @@ namespace TranslationReloader
     public class TranslationReloaderMod : ModSystem
     {
         public override double ExecuteOrder() => double.MaxValue;
-        
-        public override bool ShouldLoad(EnumAppSide forSide) => true;
 
         public override void Start(ICoreAPI api)
         {
             base.Start(api);
             api.Logger.Notification("[Polish Translations Pack] Initialized (ExecuteOrder: {0})", double.MaxValue);
         }
-        
+
         public override void AssetsLoaded(ICoreAPI api)
         {
             base.AssetsLoaded(api);
-            
+
             try
             {
                 // Find translation pack Origin
@@ -41,7 +39,7 @@ namespace TranslationReloader
                 }
 
                 // Get Origins list via reflection
-                var originsField = api.Assets.GetType().GetField("Origins", 
+                var originsField = api.Assets.GetType().GetField("Origins",
                     System.Reflection.BindingFlags.Public | System.Reflection.BindingFlags.Instance);
 
                 if (originsField == null)
@@ -63,7 +61,7 @@ namespace TranslationReloader
 
                 origins.RemoveAt(currentIndex);
                 origins.Add(packOrigin);
-                
+
                 api.Logger.Notification("[Polish Translations Pack] Moved Origin from position {0} to {1} (last)", currentIndex, origins.Count - 1);
 
                 // Reload translations
