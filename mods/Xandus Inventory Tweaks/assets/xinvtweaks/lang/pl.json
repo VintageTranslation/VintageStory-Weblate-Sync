@@ -1,1 +1,14 @@
-{}
+{
+    "priority": "Priorytet",
+    "fillbackpack": "Napełnij plecak",
+    "clearhandslot": "Pusta dłoń",
+    "sort": "Sortuj",
+    "sortbackpack": "Sortuj plecak",
+    "sortinventories": "Sortuj ekwipunek",
+    "pullinventory": "Uzupełnij ekwipunek",
+    "pushinventory": "Opróżnij ekwipunek",
+    "Λ": "Λ",
+    "V": "V",
+    "V\n¯": "V\n¯",
+    "X": "X"
+}
