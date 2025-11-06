@@ -25,7 +25,7 @@
     "empty-map": "Pusta mapa",
     "clear-map": "Wyczyść mapę",
     "save-map": "Zapisz",
-    "fuel-time": "Pozostało energii na {0} dni i {1:0.#} godzin",
+    "fuel-time": "Pozostało energii na {p0:# dni|# dzień|# dni} i {1:0.#} godz.",
     "refuel": "Dodaj zębatkę temporalną, aby uzupełnić energię",
     "command-setreading": "Podaj współrzędne swojego ostatniego odczytu kilofa geologicznego, by dodać go do mapy",
     "command-setreading-success": "Ostatni odczyt kilofa geologicznego został dodany do mapy na koordynatach {x}, {y}, {z}",
