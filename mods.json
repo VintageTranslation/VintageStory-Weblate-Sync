@@ -153,7 +153,8 @@
     {
         "name": "Dressmakers",
         "modid": "dressmakers",
-        "version": "1.7.3"
+        "version": "1.7.4",
+        "lastUpdated": "2025-11-09"
     },
     {
         "name": "Stone Bake Oven",
