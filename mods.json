@@ -72,7 +72,8 @@
     {
         "name": "PlayerList",
         "modid": "playerlist",
-        "version": "2.1.5"
+        "version": "2.2.0",
+        "lastUpdated": "2025-11-11"
     },
     {
         "name": "ImGui",
@@ -120,8 +121,8 @@
     {
         "name": "CAN Jewelry",
         "modid": "canjewelry",
-        "version": "0.5.12",
-        "lastUpdated": "2025-11-08"
+        "version": "0.5.13",
+        "lastUpdated": "2025-11-11"
     },
     {
         "name": "ShearLib",
