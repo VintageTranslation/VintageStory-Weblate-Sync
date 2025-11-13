@@ -550,6 +550,7 @@
     "setting-dropcontentsondeath": "Vehicles will drop attachments when killed",
     "setting-flutedurability": "Increase the durability of the materializer (cart-flute)",
     "setting-weaponCategoryChange": "Separates the categoryCodes of weapons and cookingpots",
+    "setting-allowmarketstallsitting": "Allows sitting on marketstalls (currently has issues with first person animations)",
     "creature-cartwrightscaravan:*-*-*-*-selectionbox-MainGripAP": "<br><font color='cornflowerblue'>• Grip slot •</font>",
     "creature-cartwrightscaravan:*-*-*-*-selectionbox-RiderGripAP": "<br><font color='cornflowerblue'>• Driver Position •</font>",
     "creature-cartwrightscaravan:*-*-*-*-selectionbox-BlanketAP": "<br><font color='cornflowerblue'>• Blanket slot •</font>",

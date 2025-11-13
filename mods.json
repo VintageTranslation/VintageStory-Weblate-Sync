@@ -7,7 +7,8 @@
     {
         "name": "Food Shelves",
         "modid": "foodshelves",
-        "version": "2.3.2"
+        "version": "2.3.3",
+        "lastUpdated": "2025-11-13"
     },
     {
         "name": "Purposeful Storage",
@@ -279,7 +280,8 @@
     {
         "name": "Cartwright's Caravan",
         "modid": "cartwrightscaravan",
-        "version": "1.7.3"
+        "version": "1.8.0",
+        "lastUpdated": "2025-11-13"
     },
     {
         "name": "Craftable Cartography Fork",
