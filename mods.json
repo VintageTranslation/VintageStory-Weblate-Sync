@@ -79,8 +79,8 @@
     {
         "name": "ImGui",
         "modid": "vsimgui",
-        "version": "1.1.15",
-        "lastUpdated": "2025-11-05"
+        "version": "1.1.16",
+        "lastUpdated": "2025-11-13"
     },
     {
         "name": "Workbench Expansion Patch",
