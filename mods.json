@@ -62,13 +62,14 @@
     {
         "name": "A Culinary Artillery",
         "modid": "aculinaryartillery",
-        "version": "2.0.0-dev.7",
-        "lastUpdated": "2025-11-08"
+        "version": "2.0.0-dev.8",
+        "lastUpdated": "2025-11-14"
     },
     {
         "name": "Expanded Foods",
         "modid": "expandedfoods",
-        "version": "2.0.0-dev.3"
+        "version": "2.0.0-dev.4",
+        "lastUpdated": "2025-11-14"
     },
     {
         "name": "PlayerList",
@@ -213,7 +214,8 @@
     {
         "name": "Wolf Taming",
         "modid": "wolftaming",
-        "version": "4.0.1"
+        "version": "4.1.0",
+        "lastUpdated": "2025-11-14"
     },
     {
         "name": "Cats",
