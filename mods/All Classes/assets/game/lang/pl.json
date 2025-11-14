@@ -30,7 +30,7 @@
     "traitdesc-artifice": "Może wytwarzać <a href=\"handbooksearch://dywan\">dywany</a>, a także niektóre <a href=\"handbooksearch://Obraz (Rodzina) or Obraz (Irys) or Obraz (Kobieta)\">obrazy</a>.",
     "traitdesc-transcription": "Może wytwarzać <a href=\"handbooksearch://dywan\">małe dywany</a>, <a href=\"handbooksearch://pergamin\">pergaminy</a> z trzciny i papirusu, a także <a href=\"handbooksearch://Rusałka admirał\">fałszywe motyle</a>.",
     "traitdesc-culinary": "Może wytwarzać różne <a href=\"handbooksearch://garnek\">metalowe garnki</a>, a także staroświecką <a href=\"handbooksearch://Wołowina dojrzewająca\">wołowinę</a>.",
-    "traitdesc-pioneer": "Może wytwarzać <a href=\"handbooksearch://nasiona\">nasiona</a>z nadwyżek upraw,<a href=\"handbooksearch://wysoka ży\">wysokiej żyzności glebę</a>, i <a href=\"handbooksearch://nawóz wzmacniający\">nawozy wzmacniające</a>.",
+    "traitdesc-pioneer": "Może wytwarzać <a href=\"handbooksearch://nasiona\">nasiona</a>z nadwyżek upraw,<a href=\"handbooksearch://wysoka ży\">wysokiej żyzności glebę</a>, i <a href=\"handbooksearch://nawóz wzmacniający\">nawozy wzmacniające</a>",
     "traitname-stitch_doctor": "Chirurg",
     "trait-stitch_doctor": "<font color=\"#c69c29\">• Chirurg</font>",
     "traitdesc-stitch_doctor": "Może tworzyć <a href=\"handbooksearch://zestaw do OR dopasowana prze\">zestawy do szycia i dopasowane </a> przeszywanice",
@@ -48,5 +48,7 @@
     "trait-culinary": "<font color=\"#c69c29\">• Smakosz</font>",
     "traitname-culinary": "Smakosz",
     "trait-pioneer": "<font color=\"#c69c29\">• Pionier</font>",
-    "traitname-pioneer": "Pionier"
+    "traitname-pioneer": "Pionier",
+    "trait-sentry": "<font color=\"#c69c29\">• Strażnik</font>",
+    "traitname-sentry": "Strażnik"
 }
