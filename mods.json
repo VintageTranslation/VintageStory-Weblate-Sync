@@ -96,8 +96,8 @@
     {
         "name": "SlowTox",
         "modid": "slowtox",
-        "version": "4.0.0",
-        "lastUpdated": "2025-10-31"
+        "version": "4.0.1",
+        "lastUpdated": "2025-11-15"
     },
     {
         "name": "Real Smoke",
@@ -230,8 +230,8 @@
     {
         "name": "Feverstone's Horses",
         "modid": "feverstonehorses",
-        "version": "2.3.0-rc.1",
-        "lastUpdated": "2025-11-12"
+        "version": "2.3.0-rc.2",
+        "lastUpdated": "2025-11-15"
     },
     {
         "name": "A Panserbjørn Story",
