@@ -209,13 +209,14 @@
     {
         "name": "Pet AI",
         "modid": "petai",
-        "version": "4.0.1"
+        "version": "4.0.2",
+        "lastUpdated": "2025-11-16"
     },
     {
         "name": "Wolf Taming",
         "modid": "wolftaming",
-        "version": "4.1.0",
-        "lastUpdated": "2025-11-14"
+        "version": "4.1.2",
+        "lastUpdated": "2025-11-16"
     },
     {
         "name": "Cats",
