@@ -294,6 +294,7 @@
     "need_to_be_processed": "<font color=\"#9966ff\">Need to be processed</font>",
     "item-coronet": " coronet",
     "item-monocle": " monocle",
+    "item-glasses": " glasses",
     "item-armband": " armband",
     "item-wire-hank": " wires",
     "item-canrottenkingmask": " leper king mask",
@@ -330,5 +331,7 @@
     "item-canearrings-keys": " Earrings-Keys",
     "item-canearrings-gemstuddedearrings": " Gem Studded Earrings",
     "item-cannadiyannecklace-leather": "Cannadiyan leather necklace",
-    "item-cannadiyannecklace-metal": "Cannadiyan metal necklace"
+    "item-cannadiyannecklace-metal": "Cannadiyan metal necklace",
+    "block-canheadstand-*": "Headwear display",
+    "block-cannecklacestand-*": "Necklacewear display"
 }
