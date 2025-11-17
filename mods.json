@@ -394,5 +394,10 @@
         "name": "Wilderlands Waymarkers",
         "modid": "wwaymarkers",
         "version": "1.0.2"
+    },
+    {
+        "name": "Ancient Armory",
+        "modid": "ancientarmory",
+        "version": ""
     }
 ]
