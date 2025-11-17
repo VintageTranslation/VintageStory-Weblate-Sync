@@ -50,5 +50,9 @@
     "trait-pioneer": "<font color=\"#c69c29\">• Pionier</font>",
     "traitname-pioneer": "Pionier",
     "trait-sentry": "<font color=\"#c69c29\">• Strażnik</font>",
-    "traitname-sentry": "Strażnik"
+    "traitname-sentry": "Strażnik",
+    "traitdesc-sentry": "Może wytwarzać <a href=\"handbooksearch://łuk\">łuki</a> i <a href=\"handbooksearch://prymitywne strzały\">strzały</a>.",
+    "traitdesc-surgeon": "Może wytwarzać <a href=\"handbooksearch://okład-z-kwiatów\">okłady z kwiatów</a>.",
+    "trait-surgeon": "<font color=\"#c69c29\">• Medyk Polowy</font>",
+    "traitname-surgeon": "Medyk Polowy"
 }
