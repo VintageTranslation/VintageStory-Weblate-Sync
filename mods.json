@@ -74,8 +74,8 @@
     {
         "name": "PlayerList",
         "modid": "playerlist",
-        "version": "2.3.3",
-        "lastUpdated": "2025-11-12"
+        "version": "2.3.4",
+        "lastUpdated": "2025-11-17"
     },
     {
         "name": "ImGui",
