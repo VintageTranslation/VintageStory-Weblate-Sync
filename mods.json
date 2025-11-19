@@ -209,14 +209,14 @@
     {
         "name": "Pet AI",
         "modid": "petai",
-        "version": "4.0.2",
-        "lastUpdated": "2025-11-16"
+        "version": "4.0.3",
+        "lastUpdated": "2025-11-19"
     },
     {
         "name": "Wolf Taming",
         "modid": "wolftaming",
-        "version": "4.1.2",
-        "lastUpdated": "2025-11-16"
+        "version": "4.1.3",
+        "lastUpdated": "2025-11-19"
     },
     {
         "name": "Cats",
@@ -231,8 +231,8 @@
     {
         "name": "Feverstone's Horses",
         "modid": "feverstonehorses",
-        "version": "2.3.0-rc.2",
-        "lastUpdated": "2025-11-15"
+        "version": "2.3.0",
+        "lastUpdated": "2025-11-19"
     },
     {
         "name": "A Panserbjørn Story",
