@@ -54,5 +54,13 @@
     "traitdesc-sentry": "Może wytwarzać <a href=\"handbooksearch://łuk\">łuki</a> i <a href=\"handbooksearch://prymitywne strzały\">strzały</a>.",
     "traitdesc-surgeon": "Może wytwarzać <a href=\"handbooksearch://okład-z-kwiatów\">okłady z kwiatów</a>.",
     "trait-surgeon": "<font color=\"#c69c29\">• Medyk Polowy</font>",
-    "traitname-surgeon": "Medyk Polowy"
+    "traitname-surgeon": "Medyk Polowy",
+    "trait-crafty": "<font color=\"#c69c29\">• Pomysłowy</font>",
+    "traitname-crafty": "Pomysłowy",
+    "trait-greenthumb": "<font color=\"#c69c29\">• Ogrodnik</font>",
+    "traitname-greenthumb": "Ogrodnik",
+    "trait-mercenary": "<font color=\"#c69c29\">• Najemnik</font>",
+    "traitname-mercenary": "Najemnik",
+    "traitdesc-crafty": "Może wytwarzać <a href=\"handbooksearch://Metalowe części\">metalowe części</a>,<a href=\"handbooksearch://Strojąca\">Włócznię Strojącą</a>, a także tańsze <a href=\"handbooksearch://broni ze złomu\">Broń ze złomu</a>,<a href=\"handbooksearch://zsyp\">zsypy</a>, i <a href=\"handbooksearch://kątowa\">części mechaniczne</a>",
+    "traitdesc-greenthumb": "Może wytwarzać <a href=\"handbooksearch://nasiona\">nasiona</a>z nadwyżek upraw, a także <a href=\"handbooksearch://czarnoziem\">czarnoziem</a> i <a href=\"handbooksearch://nawóz wzmacniający\">nawozy wzmacniające</a>"
 }
