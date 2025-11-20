@@ -33,19 +33,43 @@ The pack includes `TranslationReloader.dll` which:
 2. Moves translation pack Origin to end of Origins list via reflection
 3. Reloads all translations - our files load last and override older versions
 
+## Weblate Integration
+
+This repository is synchronized with **Weblate** for collaborative translation management:
+
+- **Translation files** (`mods/*/assets/*/lang/pl.json`) are edited directly on Weblate
+- Translators contribute Polish translations via the Weblate web interface
+- Weblate automatically commits translation changes back to this repository
+- Each build includes the latest translations that were committed by Weblate
+- **Supported mods** are defined in `mods.json` - this list determines which mods are tracked for translations
+
+**Workflow:**
+1. `dotnet scripts\mods.cs update` downloads mods from ModDB and extracts their `en.json` files (English strings)
+2. Weblate detects new English strings and makes them available for translation
+3. Translators edit Polish translations on Weblate
+4. Weblate commits translation changes directly to this repository
+5. `dotnet scripts\mods.cs build <version>` packages all `pl.json` files with the mod pack
+
+**Technical Detail:** The mod includes `TranslationReloader.dll` which ensures Polish translations override any older versions from mods by reordering asset origins and reloading translations after all mods have loaded.
+
 ## Commands
+
+### Fix JSON formatting
+```bash
+dotnet scripts\mods.cs fix
+```
+Converts all JSON files in `mods/` folder to LF-only line endings and reformats them with 4-space indentation.
 
 ### Update mods from ModDB
 ```bash
 dotnet scripts\mods.cs update
 ```
-Downloads and updates mod translation files from Vintage Story ModDB.
+Downloads and extracts `en.json` files (English strings) from mods listed in `mods.json`. Only updates if new versions are detected. Creates/updates:
+- `en.json` files extracted from mods (stored in `mods/<mod-name>/assets/*/lang/`)
+- `mods.json` - Updates mod version numbers and last updated dates
+- `update-log.txt` - Summary of updated mods (only created if changes detected)
 
-### Check translation status
-```bash
-dotnet scripts\mods.cs check
-```
-Checks completeness of translations for all mods.
+Note: `pl.json` files are NOT touched by this command - they must be translated separately via Weblate or manually.
 
 ### Build package
 ```bash
@@ -56,6 +80,11 @@ dotnet scripts\mods.cs build <version> [--no-history]
 - `<version>` - Version string (e.g., `1.0.0`, `test-20251106`)
 - `--no-history` - Skip saving to build history (optional, recommended for test builds)
 
+Creates/updates:
+- `PolishTranslationsPack_v<version>.zip` - Packaged mod with all translations
+- `changelog_<version>.txt` - Detailed changelog
+- `build-history.json` - Build history tracking (with `--no-history` flag)
+
 **Examples:**
 ```bash
 # Test build
@@ -63,6 +92,37 @@ dotnet scripts\mods.cs build test-$(Get-Date -Format "yyyyMMdd-HHmmss") --no-his
 
 # Release build
 dotnet scripts\mods.cs build 1.0.0
+```
+
+## Configuration Files
+
+### `translators.txt`
+Contains the list of translator authors credited in the mod pack. Each name on a separate line.
+
+**Used by:** `build` command - authors from this file are added to `modinfo.json` when packaging the mod. If the file doesn't exist or is empty, "Community Translators" is used as default.
+
+**Example:**
+```
+alex_dev
+marina
+toma
+```
+
+### `mods.json`
+Database of supported mods with their ModDB IDs, versions, and last update dates.
+
+**Used by:** `update` command - determines which mods to download from ModDB.
+
+**Format:**
+```json
+[
+  {
+    "name": "Mod Display Name",
+    "modid": "moddb_id",
+    "version": "1.2.3",
+    "lastUpdated": "2025-11-20"
+  }
+]
 ```
 
 
