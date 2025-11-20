@@ -29,7 +29,8 @@
     {
         "name": "Status Hud Continued",
         "modid": "statushudcont",
-        "version": "4.0.1"
+        "version": "4.0.2",
+        "lastUpdated": "2025-11-20"
     },
     {
         "name": "Millwright",
