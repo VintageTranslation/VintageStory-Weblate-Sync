@@ -4,8 +4,8 @@ Community-maintained Polish translations for Vintage Story mods.
 
 ## Requirements
 
-- .NET 10.0 SDK (or higher) - for build scripts
-- .NET 8.0 SDK - for TranslationReloader.dll compilation
+- .NET 10.0 SDK (or higher) - for full build pipeline with scripts
+- .NET 8.0 SDK - only if building just the DLL without using the scripts
 - `VINTAGE_STORY` environment variable pointing to game installation
 
 ```powershell
