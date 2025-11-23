@@ -147,7 +147,8 @@
     {
         "name": "Expanded Matter",
         "modid": "em",
-        "version": "3.3.3"
+        "version": "3.4.0",
+        "lastUpdated": "2025-11-23"
     },
     {
         "name": "Tailor's Delight",
@@ -278,8 +279,8 @@
     {
         "name": "Brain Freeze",
         "modid": "brainfreeze",
-        "version": "1.3.4",
-        "lastUpdated": "2025-11-11"
+        "version": "1.3.5",
+        "lastUpdated": "2025-11-23"
     },
     {
         "name": "Cartwright's Caravan",
