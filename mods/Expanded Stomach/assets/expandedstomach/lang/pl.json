@@ -15,5 +15,11 @@
     "stomachover50": "Zjadłem więcej, niż planowałem. Lepiej uważać, żeby nie przesadzić.",
     "hello": "Czas przytyć!",
     "stomachover75": "Ten ostatni kęs wszedł z trudem... Chyba czas przestać.",
-    "stomachover100": "Nie wcisnę już ani kęsa! To byłoby za dużo!"
+    "stomachover100": "Nie wcisnę już ani kęsa! To byłoby za dużo!",
+    "fatlevel": "Waga gracza: {0}",
+    "flNormal": "normalna",
+    "flSOverweight": "nieznaczna nadwaga",
+    "flOverweight": "nadwaga",
+    "flObese": "otyłość",
+    "flFat": "sam tłuszcz"
 }

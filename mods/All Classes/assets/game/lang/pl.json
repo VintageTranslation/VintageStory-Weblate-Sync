@@ -68,5 +68,8 @@
     "trait-carpenter": "<font color=\"#c69c29\">• Stolarz</font>",
     "traitname-carpenter": "Stolarz",
     "trait-mason": "<font color=\"#c69c29\">• Murarz</font>",
-    "traitname-mason": "Murarz"
+    "traitname-mason": "Murarz",
+    "traitdesc-mason": "Może wytwarzać <a href=\"handbooksearch://zaprawa\">zaprawę</a>,<a href=\"handbooksearch://gips\">gips</a>, a także<a href=\"handbooksearch://niewypalona cegła\">szamotowe</a i zwykłe <a href=\"handbooksearch://niewypalona cegła z gliny ognio\">cegły</a> tańszym kosztem. Na dodatek, może tworzyć <a href=\"handbooksearch://blok z ciosów\">ciosy</a> z kamieni, i unikalny przepis na <a href=\"handbooksearch://brązowa cegła\">brązowe cegły</a>.",
+    "trait-smith": "<font color=\"#c69c29\">• Metalurg</font>",
+    "traitname-smith": "Metalurg"
 }

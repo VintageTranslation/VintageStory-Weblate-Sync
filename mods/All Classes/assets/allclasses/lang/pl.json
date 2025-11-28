@@ -1,1 +1,10 @@
-{}
+{
+    "game:tabname-allclasses": "All Classes",
+    "allclasses:craftinginfo-allclasses": "Podręcznik All Classes",
+    "allclasses:craftinginfo-allclasses-title": "Podręcznik All Classes",
+    "allclasses:item-tools-simple": "Proste narzędzia",
+    "allclasses:item-tools-basic": "Normalne narzędzia",
+    "allclasses:itemdesc-tools-basic": "<font color=\"#ff9900\">Za słabe by naprawiać zbroje płytowe</font>",
+    "allclasses:item-tools-standard": "Ulepszone narzędzia",
+    "allclasses:item-tools-advanced": "Zaawansowane narzędzia"
+}
