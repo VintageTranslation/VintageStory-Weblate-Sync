@@ -30,5 +30,16 @@
     "game:material-umnini": "Umnini",
     "game:material-petrified": "Skrzemieniałe drewno",
     "game:material-guajacum": "Gwajakowiec lekarski",
-    "game:material-chlorociboria": "Drewno zabarwione przez chlorówkę"
+    "game:material-chlorociboria": "Drewno zabarwione przez chlorówkę",
+    "game:material-fir": "Jodła",
+    "game:material-tamanu": "Tamanu",
+    "game:material-spurgetree": "Wilczomlecz wielki",
+    "game:material-azobe": "Azobe",
+    "game:material-leadwood": "Drzewo ołowiowe",
+    "game:material-linden": "Lipa",
+    "game:material-horsechestnut": "Kasztanowiec",
+    "game:material-tigerwood": "Drzewo tygrysie",
+    "game:material-sapele": "Sapele",
+    "game:material-ash": "Jesion",
+    "game:material-mangrove": "Awicenia"
 }
