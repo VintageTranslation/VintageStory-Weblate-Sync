@@ -6686,5 +6686,8 @@
     "clothingcondition-worn": "Znoszone ({0}%)",
     "clothingcondition-tattered": "Podniszczone ({0}%)",
     "clothingcondition-heavilytattered": "Znacznie podniszczone ({0}%)",
-    "clothingcondition-terrible": "Zniszczone ({0}%)"
+    "clothingcondition-terrible": "Zniszczone ({0}%)",
+    "charattribute-walkspeed-0.1": "+10% szybkości ruchu",
+    "charattribute-maxhealthExtraPoints-5": "+5 punktów zdrowia",
+    "charattribute-maxhealthExtraPoints--2.5": "-2.5 punktów zdrowia"
 }
