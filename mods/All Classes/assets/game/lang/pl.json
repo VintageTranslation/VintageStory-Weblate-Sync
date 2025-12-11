@@ -72,7 +72,7 @@
     "traitdesc-mason": "Może wytwarzać <a href=\"handbooksearch://zaprawa\">zaprawę</a>,<a href=\"handbooksearch://gips\">gips</a>, a także<a href=\"handbooksearch://niewypalona cegła\">szamotowe</a i zwykłe <a href=\"handbooksearch://niewypalona cegła z gliny ognio\">cegły</a> tańszym kosztem. Na dodatek, może tworzyć <a href=\"handbooksearch://blok z ciosów\">ciosy</a> z kamieni, i unikalny przepis na <a href=\"handbooksearch://brązowa cegła\">brązowe cegły</a>.",
     "trait-smith": "<font color=\"#c69c29\">• Metalurg</font>",
     "traitname-smith": "Metalurg",
-    "traitdesc-smith": "Może używać <a href=\"handbooksearch://narzędzia\">zestawów z narzędziami</a> by naprawiać zbroje i tarcze, wytwarzać <a href=\"handbooksearch://metalowa miska\"> miski z metalu</a> i tańsze <a href=\"handbooksearch://ładunek górniczy\">ładunki wybuchowe</a> i <a href=\"handbooksearch://proch\"> czarny proch</a>.",
+    "traitdesc-smith": "Może używać <a href=\"handbooksearch://narzędzia\">zestawów z narzędziami</a> by naprawiać zbroje i tarcze, wytwarzać <a href=\"handbooksearch://metalowa miska\">miski z metalu</a> i tańsze <a href=\"handbooksearch://ładunek górniczy\">ładunki wybuchowe</a> i <a href=\"handbooksearch://proch\">czarny proch</a>.",
     "trait-sharpeye": "<font color=\"#84ff84\">• Bystrooki</font>",
     "trait-quick": "<font color=\"#84ff84\">• Zręczny</font>",
     "trait-exhausted": "<font color=\"#ff8484\">• Zmęczony</font>",
