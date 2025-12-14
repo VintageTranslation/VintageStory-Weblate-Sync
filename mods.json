@@ -381,7 +381,8 @@
     {
         "name": "WaySearchPoint",
         "modid": "waysearchpoint",
-        "version": "1.0.2"
+        "version": "1.0.3",
+        "lastUpdated": "2025-12-14"
     },
     {
         "name": "Wear And Tear",
