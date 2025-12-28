@@ -230,7 +230,8 @@
     {
         "name": "Fox Taming",
         "modid": "foxtaming",
-        "version": "1.7.2"
+        "version": "1.7.3",
+        "lastUpdated": "2025-12-28"
     },
     {
         "name": "Feverstone's Horses",
