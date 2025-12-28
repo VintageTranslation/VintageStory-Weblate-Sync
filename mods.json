@@ -29,8 +29,8 @@
     {
         "name": "Status Hud Continued",
         "modid": "statushudcont",
-        "version": "4.0.2",
-        "lastUpdated": "2025-11-20"
+        "version": "4.1.0",
+        "lastUpdated": "2025-12-28"
     },
     {
         "name": "Millwright",
@@ -142,8 +142,8 @@
     {
         "name": "Butchering",
         "modid": "butchering",
-        "version": "1.10.14",
-        "lastUpdated": "2025-12-27"
+        "version": "1.10.15",
+        "lastUpdated": "2025-12-28"
     },
     {
         "name": "Expanded Matter",
