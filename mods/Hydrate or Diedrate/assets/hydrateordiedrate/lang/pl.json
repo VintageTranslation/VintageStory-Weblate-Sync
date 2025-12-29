@@ -262,5 +262,6 @@
     "coolingbonus-lowsun": "Ciemno",
     "coolingbonus-room": "W pomieszczeniu",
     "coolingbonus-shade": "Cień",
-    "coolingbonus-wet": "Mokry"
+    "coolingbonus-wet": "Mokry",
+    "itemwearable-temperature-format": "{0:+0.#;-0.#}°C"
 }
