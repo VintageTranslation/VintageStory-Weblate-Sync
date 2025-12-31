@@ -263,5 +263,6 @@
     "coolingbonus-room": "W pomieszczeniu",
     "coolingbonus-shade": "Cień",
     "coolingbonus-wet": "Mokry",
-    "itemwearable-temperature-format": "{0:+0.#;-0.#}°C"
+    "itemwearable-temperature-format": "{0:+0.#;-0.#}°C",
+    "block-disguise": "<font opacity='0.6'>Ukryta w: «{0}»</font>"
 }

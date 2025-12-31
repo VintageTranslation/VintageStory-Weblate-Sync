@@ -184,5 +184,9 @@
     "wool:itemdesc-sack-*": "Zwiększa ilość przedmiotów, które możesz nieść",
     "wool:block-wool-plain": "Wełna",
     "wool:item-cloth-wool-plain": "Wełniana tkanina",
-    "wool:block-clothblock-wool-plain": "Wełna"
+    "wool:block-clothblock-wool-plain": "Wełna",
+    "wool:item-clothes-lowerbody-leggings-noble": "Ciepłe nogawice szlachcica",
+    "wool:item-clothes-lowerbody-leggings-game": "Ciepłe nogawice łowcy",
+    "game:handbook-leggings-noble": "Zrobione na drutach z drogiej barwionej na różowo wełny. Najnowszy krzyk szlacheckiej mody, uwielbiana zarówno przez książąt, jak i księżniczki.",
+    "game:handbook-leggings-game": "Zrobione na drutach z bardzo delikatnej jeleniej i koziej wełny, pozyskiwanej z ciepłego runa z podbrzusza."
 }

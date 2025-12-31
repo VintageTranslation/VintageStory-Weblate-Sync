@@ -12,5 +12,16 @@
     "light-level-bias": "Wpływ poziomu oświetlenia",
     "fade-bias": "Intensywność zanikania",
     "globe-effect": "Efekt kuli ziemskiej",
-    "reset": "Przywróć domyślne"
+    "reset": "Przywróć domyślne",
+    "config-separator-main-title": "Konfiguracja serwera Farseer",
+    "config-setting-maxclientviewdistance-name": "Maksymalny zasięg widzenia klienta",
+    "config-setting-maxclientviewdistance-comment": "Ogranicza maksymalny zasięg widzenia wszystkich graczy, aby zapobiec nadmiernemu zużyciu miejsca na dysku. Zwiększenie tej wartości na serwerze pozwala graczom widzieć dalej. Ustawienie jest ignorowane w trybie jednoosobowym oraz w światach \"Otwartych dla LAN\". Gracze mogą zobaczyć limit narzucony przez serwer w interfejsie konfiguracji Farseer. Jeśli ustawią większy zasięg widzenia niż dozwolony limit, serwer i tak wymusi jego przestrzeganie.",
+    "config-setting-heightmapgridsize-name": "Rozmiar siatki mapy wysokości",
+    "config-setting-heightmapgridsize-comment": "Zwiększenie tej wartości sprawia, że mapy wysokości stają się bardziej szczegółowe, ale jednocześnie wykładniczo zwiększa rozmiar plików oraz zużycie przepustowości. Wartość powinna być potęgą liczby dwa (32, 64, 128, 256…). Maksymalna wartość to 512 i powoduje próbkowanie mapy wysokości dla każdego bloku. Przy zmianie tej opcji w istniejącym świecie należy najpierw usunąć plik bazy danych tego świata (VintageStoryData/Farseer Directory), aby zresetować istniejące regiony.",
+    "config-setting-genrealchunks-name": "Generuj rzeczywiste chunki",
+    "config-setting-genrealchunks-comment": "Jeśli włączone, generuje i zapisuje faktyczne chunki aż do ustawionego \"zasięgu odległego terenu\". Jeśli wyłączone, zapisywane są tylko chunki znajdujące się w standardowym zasięgu widzenia.",
+    "config-setting-chunkgenqueuethreshold-name": "Próg kolejki generowania chunków",
+    "config-setting-chunkgenqueuethreshold-comment": "Jeśli aktualnie generowana jest większa liczba chunków niż określony próg, generowanie map wysokości odległego terenu zostaje wstrzymane do momentu, aż liczba ta ponownie spadnie. Zapobiega to przeciążeniu serwera. Maksymalna wartość: 2000.",
+    "config-setting-disableprogresslogging-name": "Wyłącz logowanie postępu",
+    "config-setting-disableprogresslogging-comment": "Jeśli włączone, zapobiega zaśmiecaniu dziennika serwera raportami postępu generowania odległych regionów."
 }
