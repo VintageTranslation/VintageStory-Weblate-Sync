@@ -263,7 +263,8 @@
     {
         "name": "Some Disassembly Required",
         "modid": "somedisassemblyrequired",
-        "version": "1.7.8"
+        "version": "1.8.8",
+        "lastUpdated": "2026-01-01"
     },
     {
         "name": "At Waters Edge",
