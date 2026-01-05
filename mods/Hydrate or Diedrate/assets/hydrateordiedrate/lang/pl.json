@@ -30,7 +30,6 @@
     "hydrateordiedrate:Config.Setting.WellwaterDepthMaxBase": "Maks. głębokość wody w studni (bazowa)",
     "hydrateordiedrate:Config.Setting.WellwaterDepthMaxClay": "Maks. głębokość wody w studni (cegły)",
     "hydrateordiedrate:Config.Setting.WellwaterDepthMaxStone": "Maks. głębokość wody w studni (kamienne ciosy)",
-    "hydrateordiedrate:Config.Setting.RandomMultiplierChance": "Szansa na losowe wzmocnienie warstw wodonośnych; zwiększ, aby częściej pojawiały się losowe warstwy (nie w pobliżu źródeł wody)",
     "hydrateordiedrate:Config.Setting.Step": "Krok warstwy wodonośnej: zwiększa dystans chunków sprawdzanych pod kątem sąsiednich warstw wodonośnych (duży wpływ na wydajność; nie zmieniaj bez potrzeby).",
     "hydrateordiedrate:Config.Setting.WaterBlockMultiplier": "Mnożnik bloków wody dla zasobności warstwy wodonośnej; większe wartości zwiększają zasobność warstw blisko wody.",
     "hydrateordiedrate:Config.Setting.SaltWaterMultiplier": "Mnożnik słonej wody dla zasobności warstwy wodonośnej; większe wartości zwiększają zasobność warstw blisko słonej wody (wpływa na zasolenie warstwy wodonośnej).",
