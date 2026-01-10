@@ -428,5 +428,55 @@
         "modid": "improvedhandbookrecipes",
         "version": "1.1.3",
         "lastUpdated": "2025-12-01"
+    },
+    {
+        "name": "RespawnInfo",
+        "modid": "rpcommand",
+        "version": ""
+    },
+    {
+        "name": "Brick and Shingles Mold",
+        "modid": "brickmold",
+        "version": ""
+    },
+    {
+        "name": "Deepvein Asbestos",
+        "modid": "deepveinasbestos",
+        "version": ""
+    },
+    {
+        "name": "Genelib",
+        "modid": "genelib",
+        "version": ""
+    },
+    {
+        "name": "Truth and Beauty Detailed Animals",
+        "modid": "detailedanimals",
+        "version": ""
+    },
+    {
+        "name": "Truth and Beauty Seasonal Animal Breeding",
+        "modid": "seasonalbreeding",
+        "version": ""
+    },
+    {
+        "name": "Age of Flax",
+        "modid": "ageofflax",
+        "version": ""
+    },
+    {
+        "name": "Olla",
+        "modid": "olla",
+        "version": ""
+    },
+    {
+        "name": "Adventurer's Walking Stick",
+        "modid": "walkingstick",
+        "version": ""
+    },
+    {
+        "name": "Mycodiversity",
+        "modid": "mycodiversity",
+        "version": ""
     }
 ]
