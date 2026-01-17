@@ -55,5 +55,7 @@
     "setting-algae-output-quantity": "Ilość wyjściowa sznurka z glonów",
     "setting-algae-output-quantity-comment": "Liczba sztuk sznurka produkowana z jednego przędzenia glonów",
     "setting-algae-spin-time": "Czas przędzenia glonów",
-    "setting-algae-spin-time-comment": "Czas w sekundach potrzebny do przędzenia glonów w sznurek"
+    "setting-algae-spin-time-comment": "Czas w sekundach potrzebny do przędzenia glonów w sznurek",
+    "material-birch": "Brzoza",
+    "block-hpspinningwheel-birch-*": "Kołowrotek (Brzoza)"
 }
