@@ -1,1 +1,10 @@
-{}
+{
+    "rp": "Liczba odrodzeń: {0}",
+    "infrp": "Nieskończone odradzanie się",
+    "norp": "Nie masz ustawionego punktu odrodzenia!",
+    "rpcoord": "Współrzędne punktu odrodzenia:\n{0}, {1}, {2}",
+    "rpguion": "Włączono interfejs graficzny odrodzeń",
+    "rpwinname": "Odrodzenie",
+    "rpguioff": "Wyłączono interfejs graficzny odrodzeń",
+    "rpguiinfo": "Na czacie można używać następujących poleceń:\n<strong>/rp</strong> Aby wyświetlić liczbę odrodzeń\n<strong>.rpwinoff</strong> Aby wyłączyć wyświetlanie okna \"odzrodzeń\"\n<strong>.rpwinon</strong> Aby ponownie włączyć wyświetlanie okna \"odzrodzeń\"\n\n<font size=18><strong>Punkt odrodzenia:</strong></font>\n<font size=15>Kiedy gracz rozpoczyna grę lub dołącza do serwera, jego postać pojawia się w początkowym punkcie odrodzenia na świecie. Za każdym razem, gdy postać ginie, zostanie odesłana do punktu odrodzenia w pobliżu swojego początkowego punktu odrodzenia, dopóki nie zdobędzie <a href=\"handbook://item-gear-temporal\">zębatki temporalnej </a>. Użycie tego przedmiotu pozwala graczowi wybrać dowolną lokalizację jako punkt odrodzenia. Każdy gracz musi zdobyć zębatkę, a zresetowanie punktu odrodzenia jednego gracza nie ma wpływu na punkt odrodzenia innego gracza. Gracz może zresetować swój punkt odrodzenia w dowolnym momencie, używając kolejnej zębatki. </font>\n\n<font size=18><strong>Resetowanie:</strong></font>\n<font size=15>Umieść zębatkę temporalną w wolnym slocie na pasku. Trzymając ją w prawej ręce, wyceluj w blok i przytrzymaj prawy przycisk myszy, aby aktywować przedmiot. Podczas aktywacji ekran będzie się dość mocno trząść. Po zużyciu zębatki temporalnej trzęsienie ustanie, a punkt odrodzenia zostanie zresetowany.</font>"
+}

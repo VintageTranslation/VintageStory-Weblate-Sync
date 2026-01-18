@@ -1,1 +1,11 @@
-{}
+{
+    "block-olla-raw-blue": "Niewypalony olla z niebieskiej gliny",
+    "block-olla-raw-fire": "Niewypalony olla z gliny ogniotrwałej",
+    "block-olla-raw-red": "Niewypalony olla z czerwonej gliny",
+    "block-olla-fired-blue-normal": "Olla z niebieskiej gliny",
+    "block-olla-fired-fire-normal": "Olla z gliny ogniotrwałej",
+    "block-olla-fired-red-normal": "Olla z czerwonej gliny",
+    "block-olla-fired-blue-buried": "Olla z niebieskiej gliny (zakopany)",
+    "block-olla-fired-fire-buried": "Olla z gliny ogniotrwałej (zakopany)",
+    "block-olla-fired-red-buried": "Olla z czerwonej gliny (zakopany)"
+}

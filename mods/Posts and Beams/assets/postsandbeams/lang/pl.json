@@ -1,1 +1,11 @@
-{}
+{
+    "block-woodenpost-empty-*": "Drewniany słup",
+    "block-woodenpost-acacia-barked-*": "Drewniany słup (akacja)",
+    "block-woodenposttorchholder-acacia-barked-*": "Drewniany słup z uchwytem na pochodnię (akacja)",
+    "block-woodenbeam-acacia-barked-*": "Drewniana belka (akacja)",
+    "block-decorbeam-acacia-barked-*": "Dekoracyjna drewniana belka (akacja)",
+    "block-woodenpost-acacia-debarked-*": "Okorowany drewniany słup (akacja)",
+    "block-woodenposttorchholder-acacia-debarked-*": "Okorowany drewniany słup z uchwytem na pochodnię (akacja)",
+    "block-woodenbeam-acacia-debarked-*": "Okorowana drewniana belka (akacja)",
+    "block-decorbeam-acacia-debarked-*": "Okorowana dekoracyjna drewniana belka (akacja)"
+}

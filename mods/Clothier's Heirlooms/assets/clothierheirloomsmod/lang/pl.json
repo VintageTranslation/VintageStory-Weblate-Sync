@@ -1,1 +1,8 @@
-{}
+{
+    "clothierheirloomsmod:block-autoloom-tinbronze-*": "Automatyczne krosno z brązu cynowego",
+    "clothierheirloomsmod:block-autoloom-bismuthbronze-*": "Automatyczne krosno z brązu bizmutowego",
+    "clothierheirloomsmod:block-autoloom-blackbronze-*": "Automatyczne krosno z brązu korynckiego",
+    "clothierheirloomsmod:block-spinner-tinbronze-*": "Przędzarka z brązu cynowego",
+    "clothierheirloomsmod:block-spinner-bismuthbronze-*": "Przędzarka z brązu bizmutowego",
+    "clothierheirloomsmod:block-spinner-blackbronze-*": "Przędzarka z brązu korynckiego"
+}

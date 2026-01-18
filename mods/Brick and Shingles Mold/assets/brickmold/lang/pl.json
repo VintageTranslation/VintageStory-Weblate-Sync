@@ -1,1 +1,9 @@
-{}
+{
+    "block-shingleform-ns": "Forma dachówek",
+    "block-brickmold-ns": "Forma cegły",
+    "block-brickmold-north": "STARA WERSJA, USUŃ MNIE",
+    "block-brickmold-east": "STARA WERSJA, USUŃ MNIE",
+    "item-refractoryclay-tier1": "Mieszanka szamotowa (poziom 1)",
+    "item-refractoryclay-tier2": "Mieszanka szamotowa (poziom 2)",
+    "item-refractoryclay-tier3": "Mieszanka szamotowa (poziom 3)"
+}
