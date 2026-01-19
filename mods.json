@@ -345,7 +345,8 @@
     {
         "name": "Japanese Architecture",
         "modid": "japanesearchitecture",
-        "version": "0.9.4"
+        "version": "0.9.5",
+        "lastUpdated": "2026-01-19"
     },
     {
         "name": "Jaunt Entity Movement System",
