@@ -7,5 +7,9 @@
     "block-woodenpost-acacia-debarked-*": "Okorowany drewniany słup (akacja)",
     "block-woodenposttorchholder-acacia-debarked-*": "Okorowany drewniany słup z uchwytem na pochodnię (akacja)",
     "block-woodenbeam-acacia-debarked-*": "Okorowana drewniana belka (akacja)",
-    "block-decorbeam-acacia-debarked-*": "Okorowana dekoracyjna drewniana belka (akacja)"
+    "block-decorbeam-acacia-debarked-*": "Okorowana dekoracyjna drewniana belka (akacja)",
+    "game:placefailure-nopostpresent": "Nie można tutaj postawić tego bloku. Wymaga połączenia ze słupem",
+    "game:heldhelp-placesingle": "Postaw jeden",
+    "game:heldhelp-placeauto": "Postaw wiele",
+    "blockhelp-woodenpost-addtorchholder": "Dodaj uchwyt na pochodnię"
 }
