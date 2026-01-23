@@ -22,6 +22,8 @@
     "item-walkingstick-leap": "Shepherd's leap stick",
     "item-walkingstick-blackthorn": "Blackthorn walking stick",
     "item-walkingstick-witch": "Witch's walking stick",
+    "item-walkingstick-sling": "Staff sling",
+    "item-walkingstick-sling-packed": "Packed staff sling",
     "itemdesc-walkingstick": "A handy walking aid that conserves energy while walking",
     "itemdesc-walkingstick-crude": "A flimsy walking aid that slightly conserves energy while walking",
     "itemdesc-walkingstick-cowskull": "A decorated walking aid that conserves energy while walking",
@@ -45,5 +47,6 @@
     "itemdesc-walkingstick-pathfinder": "A walking stick equipped with a compact telescope, ideal for scanning the path ahead or stargazing.",
     "itemdesc-walkingstick-leap": "Also known as a garrote in the Volcanic Isles, it aids in traversing rugged terrain.",
     "itemdesc-walkingstick-blackthorn": "Also called a shillelagh in the Emerald Isle. Conserves energy while walking, brutal when swung.",
-    "itemdesc-walkingstick-witch": "A charming walking aid that casts a warm, comforting light, easing the traveler’s burden with every step."
+    "itemdesc-walkingstick-witch": "A charming walking aid that casts a warm, comforting light, easing the traveler’s burden with every step.",
+    "itemdesc-walkingstick-sling": "A combination of a walking stick and a heavy-duty sling for ranged combat. \n<font color=\"#B3FFFFFF\"><i>Uses common stones as ammunition.</i></font>"
 }

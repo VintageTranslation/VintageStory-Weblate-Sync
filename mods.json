@@ -148,8 +148,8 @@
     {
         "name": "Expanded Matter",
         "modid": "em",
-        "version": "3.4.1",
-        "lastUpdated": "2025-12-25"
+        "version": "3.4.2",
+        "lastUpdated": "2026-01-23"
     },
     {
         "name": "Tailor's Delight",
@@ -480,8 +480,8 @@
     {
         "name": "Adventurer's Walking Stick",
         "modid": "walkingstick",
-        "version": "1.0.15",
-        "lastUpdated": "2026-01-18"
+        "version": "1.0.16",
+        "lastUpdated": "2026-01-23"
     },
     {
         "name": "Mycodiversity",
