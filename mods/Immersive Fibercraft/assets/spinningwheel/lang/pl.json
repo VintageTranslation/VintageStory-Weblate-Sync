@@ -248,5 +248,16 @@
     "spinningwheel:blockhelp-flyshuttleloomtest-use": "Usiądź i tkaj tkaninę!",
     "spinningwheel:blockhelp-flyshuttleloomtest-opencrafting": "Otwórz menu tkania!",
     "spinningwheel:gui-title-loom": "Krosno z latającym czółenkiem",
-    "spinningwheel:gui-title-spinningwheel": "Kołowrotek"
+    "spinningwheel:gui-title-spinningwheel": "Kołowrotek",
+    "section-ruderalis": "Ustawienia Ruderalis",
+    "setting-stalk-spin-time": "Czas przędzenia łodyg",
+    "setting-stalk-spin-time-comment": "Czas w sekundach potrzebny do przędzenia łodyg we włókna konopne",
+    "setting-stalk-input-quantity": "Ilość wejściowa łodyg",
+    "setting-stalk-input-quantity-comment": "Liczba łodyg wymagana na jedno przędzenie",
+    "setting-stalk-output-quantity": "Ilość wyjściowa włókien konopnych",
+    "setting-stalk-output-quantity-comment": "Liczba włókien konopnych wytwarzana na jedno przędzenie łodyg",
+    "setting-hempfibers-weave-input": "Ilość włókien konopnych na cykl tkania",
+    "setting-hempfibers-weave-input-comment": "Liczba włókien konopnych wymagana na jeden cykl tkania",
+    "setting-hempfibers-weave-output": "Ilość wyjściowa płótna konopnego",
+    "setting-hempfibers-weave-output-comment": "Liczba sztuk płótna konopnego wytwarzana na jeden cykl tkania"
 }
