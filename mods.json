@@ -142,8 +142,8 @@
     {
         "name": "Butchering",
         "modid": "butchering",
-        "version": "1.10.17",
-        "lastUpdated": "2026-01-08"
+        "version": "1.11.0",
+        "lastUpdated": "2026-01-25"
     },
     {
         "name": "Expanded Matter",
@@ -534,7 +534,7 @@
     {
         "name": "Vanilla Pane Storage",
         "modid": "vanillapanestorage",
-        "version": "1.0.2",
-        "lastUpdated": "2026-01-17"
+        "version": "1.5.0",
+        "lastUpdated": "2026-01-25"
     }
 ]
