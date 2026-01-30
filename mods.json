@@ -324,8 +324,8 @@
     {
         "name": "Hydrate or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.3.6",
-        "lastUpdated": "2026-01-14"
+        "version": "2.3.7",
+        "lastUpdated": "2026-01-30"
     },
     {
         "name": "Immersive Rope Crafting",
@@ -458,8 +458,8 @@
     {
         "name": "Truth and Beauty Detailed Animals",
         "modid": "detailedanimals",
-        "version": "0.7.2",
-        "lastUpdated": "2026-01-10"
+        "version": "0.7.3",
+        "lastUpdated": "2026-01-30"
     },
     {
         "name": "Truth and Beauty Seasonal Animal Breeding",
@@ -481,8 +481,8 @@
     {
         "name": "Adventurer's Walking Stick",
         "modid": "walkingstick",
-        "version": "1.0.17",
-        "lastUpdated": "2026-01-29"
+        "version": "1.0.18",
+        "lastUpdated": "2026-01-30"
     },
     {
         "name": "Mycodiversity",
