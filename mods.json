@@ -529,8 +529,8 @@
     {
         "name": "Window Storage",
         "modid": "windowstorage",
-        "version": "1.5.2",
-        "lastUpdated": "2026-01-27"
+        "version": "1.5.3",
+        "lastUpdated": "2026-01-31"
     },
     {
         "name": "Vanilla Pane Storage",
