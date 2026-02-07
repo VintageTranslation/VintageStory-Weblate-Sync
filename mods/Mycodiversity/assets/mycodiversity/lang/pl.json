@@ -40,5 +40,6 @@
     "game:meal-ingredient-stew-primary-mushroom-bluechanterelle-normal": "pieprznika niebieskiego",
     "game:meal-ingredient-stew-secondary-mushroom-bluechanterelle-normal": "pieprznika niebieskiego",
     "substrate:mushroom-bluechanterelle": "Pieprznika niebieskiego",
-    "game:block-mushroom-aspenbolete-normal": "Koźlarz białotrzonowy"
+    "game:block-mushroom-aspenbolete-normal": "Koźlarz białotrzonowy",
+    "game:block-mushroom-winterchanterelle-normal": "Lejkowiec trąbkowy"
 }
