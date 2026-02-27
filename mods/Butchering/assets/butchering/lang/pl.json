@@ -226,11 +226,11 @@
     "item-hook-iron": "Żelazny hak",
     "item-hook-flint": "Krzemienny hak",
     "block-butchertable-advanced-*": "Zaawansowany stół rzeźnicki",
-    "blockdesc-butchertable-advanced-*": "120% uzyskiwanych składników przy oprawianiu stworzenia. Narzędzia są zużywane przy tworzeniu. Trafia do slotu na plecak.",
+    "blockdesc-butchertable-advanced-*": "120% uzyskiwanych składników przy oprawianiu stworzenia.\nNarzędzia są zużywane przy tworzeniu. Trafia do slotu na plecak.",
     "block-butchertable-simple-*": "Stół rzeźnicki",
-    "blockdesc-butchertable-simple-*": "100% uzyskiwanych składników przy oprawianiu stworzenia. Narzędzia są zużywane przy tworzeniu. Trafia do slotu na plecak.",
+    "blockdesc-butchertable-simple-*": "100% uzyskiwanych składników przy oprawianiu stworzenia.\nNarzędzia są zużywane przy tworzeniu. Trafia do slotu na plecak.",
     "block-butchertable-primitive-*": "Prymitywny stół rzeźnicki",
-    "blockdesc-butchertable-primitive-*": "80% uzyskiwanych składników przy oprawianiu stworzenia. Narzędzia są zużywane przy tworzeniu. Trafia do slotu na plecak.",
+    "blockdesc-butchertable-primitive-*": "80% uzyskiwanych składników przy oprawianiu stworzenia.\nNarzędzia są zużywane przy tworzeniu. Trafia do slotu na plecak.",
     "block-butcherhook-iron-*": "Zaawansowany hak do skórowania",
     "blockdesc-butcherhook-iron-*": "120% uzyskiwanych składników przy skórowaniu stworzenia",
     "block-butcherhook-copper-*": "Hak do skórowania",
@@ -306,5 +306,6 @@
     "item-deadstrigopidae-*": "Kakapo (martwy)",
     "item-deadelephantidae-*": "Słoniowaty (martwy)",
     "item-deadsirenia-*": "Siren (martwy)",
-    "item-deadcervini-*": "Cervini (martwy)"
+    "item-deadcervini-*": "Cervini (martwy)",
+    "corpse-now-rotten": "Nie można już oprawić tej tuszy."
 }

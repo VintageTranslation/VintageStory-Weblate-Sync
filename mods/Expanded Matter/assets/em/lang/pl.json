@@ -273,5 +273,7 @@
     "em:itemdesc-causticpotashportion": "Bardzo silna zasada. Neutralizuje kwasy i redukuje większość materiałów. Należy obchodzić się z nią ostrożnie.",
     "game:itemdesc-slakedlimeportion": "Słaba zasada. Używana do wyrobu zaprawy farbiarskiej.",
     "game:itemdesc-powder-iron-raw": "Powoli zamieni się w rdzę.",
-    "game:itemdesc-powder-iron-oxide": "Zwykła rdza."
+    "game:itemdesc-powder-iron-oxide": "Zwykła rdza.",
+    "em:item-crushed-ore-sphalerite": "Kruszony sfaleryt",
+    "em:itemdesc-crushed-ore-sphalerite": "Kawałki kruszonej rudy cynku."
 }
