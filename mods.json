@@ -538,5 +538,100 @@
         "modid": "vanillapanestorage",
         "version": "1.6.1",
         "lastUpdated": "2026-02-26"
+    },
+    {
+        "name": "Config lib",
+        "modid": "configlib",
+        "version": ""
+    },
+    {
+        "name": "JSON Patches lib",
+        "modid": "jsonpatcheslib",
+        "version": ""
+    },
+    {
+        "name": "Overhaul lib",
+        "modid": "overhaullib",
+        "version": ""
+    },
+    {
+        "name": "Combat Overhaul",
+        "modid": "combatoverhaul",
+        "version": ""
+    },
+    {
+        "name": "Combat Overhaul Armory",
+        "modid": "armory",
+        "version": ""
+    },
+    {
+        "name": "More Lanterns",
+        "modid": "apelanterns",
+        "version": ""
+    },
+    {
+        "name": "Braziers",
+        "modid": "hqzlights",
+        "version": ""
+    },
+    {
+        "name": "Material Needs",
+        "modid": "materialneeds",
+        "version": ""
+    },
+    {
+        "name": "Material Needs Flowers",
+        "modid": "mnflowers",
+        "version": ""
+    },
+    {
+        "name": "Material Needs Geology",
+        "modid": "mngeology",
+        "version": ""
+    },
+    {
+        "name": "Axle in blocks",
+        "modid": "axleinblocks",
+        "version": ""
+    },
+    {
+        "name": "Bulk Molds",
+        "modid": "bulkmoldsmod",
+        "version": ""
+    },
+    {
+        "name": "Attribute Rendering Library",
+        "modid": "attributerenderinglibrary",
+        "version": ""
+    },
+    {
+        "name": "Fueled Wearable Lights",
+        "modid": "fueledwearablelights",
+        "version": ""
+    },
+    {
+        "name": "Heraldry Core",
+        "modid": "heraldry",
+        "version": ""
+    },
+    {
+        "name": "Heraldry Capes",
+        "modid": "capes",
+        "version": ""
+    },
+    {
+        "name": "Heraldry Banners",
+        "modid": "heraldrybanners",
+        "version": ""
+    },
+    {
+        "name": "Metal Tongs",
+        "modid": "metaltongs",
+        "version": ""
+    },
+    {
+        "name": "Visored Helmets",
+        "modid": "visorhelmets",
+        "version": ""
     }
 ]
