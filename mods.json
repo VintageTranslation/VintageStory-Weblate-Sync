@@ -552,8 +552,8 @@
     {
         "name": "Overhaul lib",
         "modid": "overhaullib",
-        "version": "1.20.17",
-        "lastUpdated": "2026-02-27"
+        "version": "1.21.0",
+        "lastUpdated": "2026-02-28"
     },
     {
         "name": "Combat Overhaul",
