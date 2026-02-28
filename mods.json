@@ -648,5 +648,15 @@
         "modid": "visorhelmets",
         "version": "1.1.4",
         "lastUpdated": "2026-02-27"
+    },
+    {
+        "name": "Palisades Continued",
+        "modid": "palisademod2",
+        "version": ""
+    },
+    {
+        "name": "Quivers And Sheaths",
+        "modid": "quiversandsheaths",
+        "version": ""
     }
 ]
