@@ -652,11 +652,13 @@
     {
         "name": "Palisades Continued",
         "modid": "palisademod2",
-        "version": ""
+        "version": "1.0.0",
+        "lastUpdated": "2026-02-28"
     },
     {
         "name": "Quivers And Sheaths",
         "modid": "quiversandsheaths",
-        "version": ""
+        "version": "0.8.7",
+        "lastUpdated": "2026-02-28"
     }
 ]
