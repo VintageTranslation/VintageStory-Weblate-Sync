@@ -6451,7 +6451,7 @@
     "we-preview-tooltip": "Tryb podglądu",
     "we-preview-text": "Podgląd",
     "we-commit-tooltip": "Umieść\nlub kliknij prawym przyciskiem myszy, aby umieścić (pozycja zależy od ustawienia PAC)",
-    "we-commit-text": "Umieść",
+    "we-commit-text": "Zatwierdź umieszczanie",
     "handbook-mealrecipe-nutritionfacts": "Minimalna i maksymalna wartość odżywcza",
     "handbook-mealrecipe-nutritionfactsline-satiety": "- Sytość: od {0} do {1}{2}",
     "handbook-mealrecipe-nutritionfacts-satietycategories": " ({0})",
