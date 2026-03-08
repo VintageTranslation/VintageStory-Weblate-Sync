@@ -29,8 +29,8 @@
     {
         "name": "Status Hud Continued",
         "modid": "statushudcont",
-        "version": "4.1.1",
-        "lastUpdated": "2025-12-29"
+        "version": "4.2.0",
+        "lastUpdated": "2026-03-08"
     },
     {
         "name": "Millwright",
@@ -629,8 +629,8 @@
     {
         "name": "Heraldry Capes",
         "modid": "capes",
-        "version": "1.0.0",
-        "lastUpdated": "2026-02-27"
+        "version": "1.0.1",
+        "lastUpdated": "2026-03-08"
     },
     {
         "name": "Heraldry Banners",
