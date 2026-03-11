@@ -353,8 +353,8 @@
     {
         "name": "Jaunt Entity Movement System",
         "modid": "jaunt",
-        "version": "2.2.0",
-        "lastUpdated": "2026-02-08"
+        "version": "3.0.0-rc.2",
+        "lastUpdated": "2026-03-11"
     },
     {
         "name": "Helve Axe addon for In dappled Groves",
@@ -507,8 +507,8 @@
     {
         "name": "VS Roofing Mod",
         "modid": "vsroofing",
-        "version": "1.4.6",
-        "lastUpdated": "2026-02-23"
+        "version": "1.4.7",
+        "lastUpdated": "2026-03-11"
     },
     {
         "name": "Clothier's Heirlooms",
