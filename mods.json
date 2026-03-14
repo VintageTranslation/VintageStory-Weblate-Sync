@@ -532,14 +532,14 @@
     {
         "name": "Window Storage",
         "modid": "windowstorage",
-        "version": "1.6.5",
-        "lastUpdated": "2026-02-28"
+        "version": "1.7.0",
+        "lastUpdated": "2026-03-14"
     },
     {
         "name": "Vanilla Pane Storage",
         "modid": "vanillapanestorage",
-        "version": "1.6.1",
-        "lastUpdated": "2026-02-26"
+        "version": "1.7.0",
+        "lastUpdated": "2026-03-14"
     },
     {
         "name": "Config lib",
