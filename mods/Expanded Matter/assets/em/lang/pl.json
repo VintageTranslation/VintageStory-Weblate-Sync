@@ -23,15 +23,6 @@
     "game:tabname-glass": "Szkło",
     "game:tabname-luminous": "Świecące",
     "game:handbook-item-usage": "Użycie",
-    "em:item-ash-organic-plant": "Popiół roślinny",
-    "em:itemdesc-ash-organic-plant": "Mieszanka różnych roślin spalonych na popiół.",
-    "game:handbook-item-usage-ash-organic-plant": "Można przerobić na nawóz.",
-    "em:item-ash-organic-wood": "Popiół drzewny",
-    "em:itemdesc-ash-organic-wood": "Mieszanka różnych gatunków drewna spalonych na popiół.",
-    "game:handbook-item-usage-ash-organic-wood": "Można przerobić na nawóz.",
-    "em:item-ash-organic-sludge": "Szlam popiołowy",
-    "em:itemdesc-ash-organic-sludge": "Skoncentrowany mokry popiół organiczny.",
-    "game:handbook-item-usage-ash-organic-sludge": "Wysusz w średniej temperaturze, aby uzyskać potaż.",
     "em:item-ash-inorganic-rock": "Popiół skalny",
     "em:itemdesc-ash-inorganic-rock": "Bardzo drobne fragmenty skał, kryształów i szkła mineralnego.",
     "game:handbook-item-usage-ash-inorganic-rock": "Może być użyty jako nawóz.",
@@ -97,7 +88,6 @@
     "em:item-crushed-ore-cupronickel": "Kruszony miedzionikiel",
     "em:item-crushed-ore-electrum": "Kruszone elektrum",
     "em:item-crushed-ore-flint": "Kruszony krzemień",
-    "em:item-crushed-ore-galena": "Kruszona galena",
     "em:item-crushed-ore-graphite": "Kruszony grafit",
     "em:item-crushed-ore-hematite": "Kruszony hematyt",
     "em:item-crushed-ore-limonite": "Kruszony limonit",
@@ -273,7 +263,5 @@
     "em:itemdesc-causticpotashportion": "Bardzo silna zasada. Neutralizuje kwasy i redukuje większość materiałów. Należy obchodzić się z nią ostrożnie.",
     "game:itemdesc-slakedlimeportion": "Słaba zasada. Używana do wyrobu zaprawy farbiarskiej.",
     "game:itemdesc-powder-iron-raw": "Powoli zamieni się w rdzę.",
-    "game:itemdesc-powder-iron-oxide": "Zwykła rdza.",
-    "em:item-crushed-ore-sphalerite": "Kruszony sfaleryt",
-    "em:itemdesc-crushed-ore-sphalerite": "Kawałki kruszonej rudy cynku."
+    "game:itemdesc-powder-iron-oxide": "Zwykła rdza."
 }
