@@ -392,8 +392,8 @@
     {
         "name": "WaySearchPoint",
         "modid": "waysearchpoint",
-        "version": "1.0.3",
-        "lastUpdated": "2025-12-14"
+        "version": "1.0.5",
+        "lastUpdated": "2026-04-15"
     },
     {
         "name": "Wear And Tear",
@@ -597,8 +597,8 @@
     {
         "name": "Material Needs Geology",
         "modid": "mngeology",
-        "version": "2.0.1",
-        "lastUpdated": "2026-03-14"
+        "version": "2.0.2",
+        "lastUpdated": "2026-04-15"
     },
     {
         "name": "Axle in blocks",
