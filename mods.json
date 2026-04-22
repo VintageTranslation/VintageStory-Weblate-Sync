@@ -30,8 +30,8 @@
     {
         "name": "Status Hud Continued",
         "modid": "statushudcont",
-        "version": "4.3.0",
-        "lastUpdated": "2026-04-05"
+        "version": "4.3.1",
+        "lastUpdated": "2026-04-22"
     },
     {
         "name": "Millwright",
@@ -627,20 +627,20 @@
     {
         "name": "Heraldry Core",
         "modid": "heraldry",
-        "version": "1.0.2",
-        "lastUpdated": "2026-02-27"
+        "version": "2.0.0",
+        "lastUpdated": "2026-04-22"
     },
     {
         "name": "Heraldry Capes",
         "modid": "capes",
-        "version": "1.0.1",
-        "lastUpdated": "2026-03-08"
+        "version": "2.0.0",
+        "lastUpdated": "2026-04-22"
     },
     {
         "name": "Heraldry Banners",
         "modid": "heraldrybanners",
-        "version": "1.0.1",
-        "lastUpdated": "2026-02-27"
+        "version": "2.0.0",
+        "lastUpdated": "2026-04-22"
     },
     {
         "name": "Metal Tongs",
