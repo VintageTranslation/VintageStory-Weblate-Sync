@@ -12,7 +12,6 @@
     "em:setting_flint_factor_comment": "Ilość kruszonego krzemienia z jednego kawałka w kruszarce",
     "em:setting_flint_crushing": "Kruszenie grotów włóczni i strzał z krzemienia",
     "em:setting_flint_crushing_comment": "Po włączeniu groty włóczni i strzał z krzemienia można kruszyć w kruszarce",
-    "game:material-electrum": "Elektrum",
     "em:item-powdered-metal-temporal": "Proszek temporalny",
     "em:item-crushed-metal-temporal": "Kawałki temporalne",
     "em:itemdesc-crushed-metal-temporal": "Lekko drżą.",
