@@ -589,8 +589,8 @@
     {
         "name": "Material Needs",
         "modid": "materialneeds",
-        "version": "1.1.13",
-        "lastUpdated": "2026-02-27"
+        "version": "1.1.14",
+        "lastUpdated": "2026-04-25"
     },
     {
         "name": "Material Needs Flowers",
@@ -600,8 +600,8 @@
     {
         "name": "Material Needs Geology",
         "modid": "mngeology",
-        "version": "2.0.2",
-        "lastUpdated": "2026-04-15"
+        "version": "2.0.3",
+        "lastUpdated": "2026-04-25"
     },
     {
         "name": "Axle in blocks",
