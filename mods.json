@@ -192,7 +192,8 @@
     {
         "name": "Explosives",
         "modid": "explosive",
-        "version": "0.1.2"
+        "version": "0.2.0",
+        "lastUpdated": "2026-04-26"
     },
     {
         "name": "All Classes",
