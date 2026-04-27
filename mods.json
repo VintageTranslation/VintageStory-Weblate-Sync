@@ -8,8 +8,8 @@
     {
         "name": "Food Shelves",
         "modid": "foodshelves",
-        "version": "2.3.3",
-        "lastUpdated": "2025-11-13"
+        "version": "3.0.0",
+        "lastUpdated": "2026-04-27"
     },
     {
         "name": "Purposeful Storage",
@@ -135,8 +135,8 @@
     {
         "name": "ShearLib",
         "modid": "shearlib",
-        "version": "1.3.0-pre.2",
-        "lastUpdated": "2026-04-20"
+        "version": "1.3.0",
+        "lastUpdated": "2026-04-27"
     },
     {
         "name": "Wool & More",
@@ -591,8 +591,8 @@
     {
         "name": "Material Needs",
         "modid": "materialneeds",
-        "version": "1.1.14",
-        "lastUpdated": "2026-04-25"
+        "version": "1.1.15",
+        "lastUpdated": "2026-04-27"
     },
     {
         "name": "Material Needs Flowers",
