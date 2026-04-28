@@ -8,8 +8,8 @@
     {
         "name": "Food Shelves",
         "modid": "foodshelves",
-        "version": "3.0.0",
-        "lastUpdated": "2026-04-27"
+        "version": "3.0.1",
+        "lastUpdated": "2026-04-28"
     },
     {
         "name": "Purposeful Storage",
@@ -48,8 +48,8 @@
     {
         "name": "Wildcraft Fruits and Nuts",
         "modid": "wildcraftfruit",
-        "version": "1.4.5",
-        "lastUpdated": "2026-02-17"
+        "version": "1.4.6",
+        "lastUpdated": "2026-04-28"
     },
     {
         "name": "Wildcraft Trees and Shrubs",
@@ -141,8 +141,8 @@
     {
         "name": "Wool & More",
         "modid": "wool",
-        "version": "1.9.0-pre.1",
-        "lastUpdated": "2026-04-21"
+        "version": "1.9.0",
+        "lastUpdated": "2026-04-28"
     },
     {
         "name": "Butchering",
@@ -265,8 +265,8 @@
     {
         "name": "Geology Additions",
         "modid": "geoaddons",
-        "version": "1.4.6",
-        "lastUpdated": "2026-01-14"
+        "version": "1.4.7",
+        "lastUpdated": "2026-04-28"
     },
     {
         "name": "Some Disassembly Required",
