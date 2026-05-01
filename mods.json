@@ -220,8 +220,8 @@
     {
         "name": "Pet AI",
         "modid": "petai",
-        "version": "5.0.1",
-        "lastUpdated": "2026-04-28"
+        "version": "5.1.0",
+        "lastUpdated": "2026-05-01"
     },
     {
         "name": "Wolf Taming",
@@ -579,8 +579,8 @@
     {
         "name": "More Lanterns",
         "modid": "apelanterns",
-        "version": "1.3.5",
-        "lastUpdated": "2026-02-27"
+        "version": "1.4.0-pre.1",
+        "lastUpdated": "2026-05-01"
     },
     {
         "name": "Braziers",
