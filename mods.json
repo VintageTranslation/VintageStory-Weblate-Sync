@@ -141,8 +141,8 @@
     {
         "name": "Wool & More",
         "modid": "wool",
-        "version": "1.9.0",
-        "lastUpdated": "2026-04-28"
+        "version": "1.9.1",
+        "lastUpdated": "2026-05-01"
     },
     {
         "name": "Butchering",
@@ -334,8 +334,8 @@
     {
         "name": "Hydrate or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.4.4",
-        "lastUpdated": "2026-04-30"
+        "version": "2.4.5",
+        "lastUpdated": "2026-05-01"
     },
     {
         "name": "Immersive Rope Crafting",
@@ -527,8 +527,8 @@
     {
         "name": "The Airship Mod",
         "modid": "vsairshipmod",
-        "version": "1.1.0-pre.2",
-        "lastUpdated": "2026-04-27"
+        "version": "1.1.1",
+        "lastUpdated": "2026-05-01"
     },
     {
         "name": "Stone Quarry",
