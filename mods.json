@@ -65,8 +65,8 @@
     {
         "name": "A Culinary Artillery",
         "modid": "aculinaryartillery",
-        "version": "2.0.0-dev.11",
-        "lastUpdated": "2025-12-05"
+        "version": "2.0.0-dev.12",
+        "lastUpdated": "2026-05-03"
     },
     {
         "name": "Expanded Foods",
@@ -521,8 +521,8 @@
     {
         "name": "Clothier's Heirlooms",
         "modid": "clothierheirloomsmod",
-        "version": "1.0.2",
-        "lastUpdated": "2026-01-17"
+        "version": "1.1.0",
+        "lastUpdated": "2026-05-03"
     },
     {
         "name": "The Airship Mod",
