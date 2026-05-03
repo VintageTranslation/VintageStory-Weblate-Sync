@@ -83,7 +83,7 @@
     {
         "name": "ImGui",
         "modid": "vsimgui",
-        "version": "1.2.3-pre.1",
+        "version": "1.2.4",
         "lastUpdated": "2026-05-03"
     },
     {
@@ -123,8 +123,8 @@
     {
         "name": "Smithing Plus",
         "modid": "smithingplus",
-        "version": "1.8.4",
-        "lastUpdated": "2026-03-02"
+        "version": "1.9.0-dev.2",
+        "lastUpdated": "2026-05-03"
     },
     {
         "name": "CAN Jewelry",
@@ -545,8 +545,8 @@
     {
         "name": "Vanilla Pane Storage",
         "modid": "vanillapanestorage",
-        "version": "1.7.3",
-        "lastUpdated": "2026-04-19"
+        "version": "1.8.0",
+        "lastUpdated": "2026-05-03"
     },
     {
         "name": "Config lib",
