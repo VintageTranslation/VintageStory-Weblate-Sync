@@ -334,8 +334,8 @@
     {
         "name": "Hydrate or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.4.5",
-        "lastUpdated": "2026-05-01"
+        "version": "2.4.6",
+        "lastUpdated": "2026-05-05"
     },
     {
         "name": "Immersive Rope Crafting",
@@ -409,7 +409,8 @@
     {
         "name": "Wind Chimes",
         "modid": "windchimes",
-        "version": "1.4.1"
+        "version": "1.5.0",
+        "lastUpdated": "2026-05-05"
     },
     {
         "name": "Wilderlands Waymarkers",
