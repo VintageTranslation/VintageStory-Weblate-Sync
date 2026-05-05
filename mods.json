@@ -2,8 +2,8 @@
     {
         "name": "Auto Map Markers",
         "modid": "egocaribautomapmarkers",
-        "version": "5.0.2",
-        "lastUpdated": "2026-04-27"
+        "version": "5.0.3",
+        "lastUpdated": "2026-05-05"
     },
     {
         "name": "Food Shelves",
@@ -426,8 +426,8 @@
     {
         "name": "Immersive Fibercraft",
         "modid": "spinningwheel",
-        "version": "1.2.0",
-        "lastUpdated": "2026-04-21"
+        "version": "1.2.1",
+        "lastUpdated": "2026-05-05"
     },
     {
         "name": "Quicklime in Kiln",
@@ -527,8 +527,8 @@
     {
         "name": "The Airship Mod",
         "modid": "vsairshipmod",
-        "version": "1.1.1",
-        "lastUpdated": "2026-05-01"
+        "version": "1.1.2",
+        "lastUpdated": "2026-05-05"
     },
     {
         "name": "Stone Quarry",
