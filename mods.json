@@ -84,8 +84,8 @@
     {
         "name": "ImGui",
         "modid": "vsimgui",
-        "version": "1.2.4",
-        "lastUpdated": "2026-05-03"
+        "version": "1.2.5",
+        "lastUpdated": "2026-05-07"
     },
     {
         "name": "Workbench Expansion Patch",
@@ -130,8 +130,8 @@
     {
         "name": "CAN Jewelry",
         "modid": "canjewelry",
-        "version": "0.6.2",
-        "lastUpdated": "2026-05-04"
+        "version": "0.6.4",
+        "lastUpdated": "2026-05-07"
     },
     {
         "name": "ShearLib",
