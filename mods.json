@@ -130,8 +130,8 @@
     {
         "name": "CAN Jewelry",
         "modid": "canjewelry",
-        "version": "0.6.4",
-        "lastUpdated": "2026-05-07"
+        "version": "0.6.5",
+        "lastUpdated": "2026-05-08"
     },
     {
         "name": "ShearLib",
@@ -166,8 +166,8 @@
     {
         "name": "Dressmakers",
         "modid": "dressmakers",
-        "version": "1.7.5",
-        "lastUpdated": "2025-12-25"
+        "version": "1.8.0",
+        "lastUpdated": "2026-05-08"
     },
     {
         "name": "Stone Bake Oven",
