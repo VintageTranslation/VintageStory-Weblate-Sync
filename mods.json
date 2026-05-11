@@ -519,8 +519,8 @@
     {
         "name": "VS Roofing Mod",
         "modid": "vsroofing",
-        "version": "1.5.3",
-        "lastUpdated": "2026-05-06"
+        "version": "1.5.5",
+        "lastUpdated": "2026-05-11"
     },
     {
         "name": "Clothier's Heirlooms",
@@ -606,8 +606,8 @@
     {
         "name": "Material Needs Geology",
         "modid": "mngeology",
-        "version": "2.0.3",
-        "lastUpdated": "2026-04-25"
+        "version": "2.0.4",
+        "lastUpdated": "2026-05-11"
     },
     {
         "name": "Axle in blocks",
