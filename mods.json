@@ -130,8 +130,8 @@
     {
         "name": "CAN Jewelry",
         "modid": "canjewelry",
-        "version": "0.6.6",
-        "lastUpdated": "2026-05-08"
+        "version": "0.6.7",
+        "lastUpdated": "2026-05-12"
     },
     {
         "name": "ShearLib",
@@ -288,8 +288,8 @@
     {
         "name": "Improved Ladders",
         "modid": "bradyladder",
-        "version": "1.2.0",
-        "lastUpdated": "2026-04-22"
+        "version": "1.2.1",
+        "lastUpdated": "2026-05-12"
     },
     {
         "name": "Brain Freeze",
@@ -495,8 +495,8 @@
     {
         "name": "Adventurer's Walking Stick",
         "modid": "walkingstick",
-        "version": "3.0.4",
-        "lastUpdated": "2026-05-10"
+        "version": "3.0.5",
+        "lastUpdated": "2026-05-12"
     },
     {
         "name": "Mycodiversity",
