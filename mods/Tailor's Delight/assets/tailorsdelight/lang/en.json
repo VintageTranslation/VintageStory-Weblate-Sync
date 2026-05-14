@@ -1,5 +1,6 @@
 {
     "game:tabname-panels": "Panels",
+    "game:tabname-ceramics": "Ceramics",
     "tailorsdelight:setting_enable_vs_recipe_patches": "Enable patching VS recipes",
     "tailorsdelight:setting_enable_vs_recipe_patches_comment": "Patch vanilla VS recipes to use Tailor's Delight items like needles or leather?",
     "tailorsdelight:settings_patches": "Patches",
@@ -383,5 +384,8 @@
     "tailorsdelight:item-cloth-darkblue": "Dark blue cloth",
     "tailorsdelight:item-cloth-darkbrown": "Dark brown cloth",
     "tailorsdelight:item-cloth-darkgreen": "Dark green cloth",
-    "tailorsdelight:item-cloth-darkred": "Dark red cloth"
+    "tailorsdelight:item-cloth-darkred": "Dark red cloth",
+    "tailorsdelight:item-down-plain": "Down",
+    "tailorsdelight:itemdesc-down-plain": "Plucked feathers.",
+    "tailorsdelight:handbook-item-down": "Down and quill pieces from bird feathers."
 }
