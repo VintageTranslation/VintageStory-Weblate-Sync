@@ -66,7 +66,7 @@
     {
         "name": "A Culinary Artillery",
         "modid": "aculinaryartillery",
-        "version": "2.0.0-dev.14",
+        "version": "2.0.0-dev.15",
         "lastUpdated": "2026-05-15"
     },
     {
@@ -149,8 +149,8 @@
     {
         "name": "Butchering",
         "modid": "butchering",
-        "version": "1.13.2",
-        "lastUpdated": "2026-04-30"
+        "version": "1.13.3",
+        "lastUpdated": "2026-05-15"
     },
     {
         "name": "Expanded Matter",
@@ -313,7 +313,8 @@
     {
         "name": "Enhanced Handbook",
         "modid": "enhancedhandbook",
-        "version": "1.7.1"
+        "version": "1.8.0",
+        "lastUpdated": "2026-05-15"
     },
     {
         "name": "Expanded Stomach",
