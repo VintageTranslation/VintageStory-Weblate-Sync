@@ -20,8 +20,8 @@
     {
         "name": "From Golden Combs",
         "modid": "fromgoldencombs",
-        "version": "2.0.1-rc.3",
-        "lastUpdated": "2026-05-09"
+        "version": "2.0.1",
+        "lastUpdated": "2026-05-15"
     },
     {
         "name": "Toggle Mouse Control",
@@ -66,8 +66,8 @@
     {
         "name": "A Culinary Artillery",
         "modid": "aculinaryartillery",
-        "version": "2.0.0-dev.13",
-        "lastUpdated": "2026-05-09"
+        "version": "2.0.0-dev.14",
+        "lastUpdated": "2026-05-15"
     },
     {
         "name": "Expanded Foods",
@@ -413,8 +413,8 @@
     {
         "name": "Wind Chimes",
         "modid": "windchimes",
-        "version": "1.5.0",
-        "lastUpdated": "2026-05-05"
+        "version": "1.5.1",
+        "lastUpdated": "2026-05-15"
     },
     {
         "name": "Wilderlands Waymarkers",

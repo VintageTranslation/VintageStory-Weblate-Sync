@@ -69,5 +69,21 @@
     "windchimes:Debug (client)": "Debug (client)",
     "game:Save": "Save",
     "game:Close": "Close",
-    "windchimes:WindChime settings saved!": "WindChime settings saved!"
+    "windchimes:WindChime settings saved!": "WindChime settings saved!",
+    "windchimes:windchime-default": "[Soft, melodic chiming]",
+    "windchimes:windchime-bamboo-default": "[Soft, melodic chiming]",
+    "windchimes:windchime-bamboo-ambient": "[Soft, melodic chiming]",
+    "windchimes:windchime-bamboo-hit": "[Loud, melodic chiming]",
+    "windchimes:windchime-wood-default": "[Soft, melodic chiming]",
+    "windchimes:windchime-wood-ambient": "[Soft, melodic chiming]",
+    "windchimes:windchime-wood-hit": "[Loud, melodic chiming]",
+    "windchimes:windchime-brass-default": "[Metal chimes clinking]",
+    "windchimes:windchime-brass-ambient": "[Metal chimes clinking]",
+    "windchimes:windchime-brass-hit": "[Loud metal chime clinking]",
+    "windchimes:windchime-copper-default": "[Metal chimes clinking]",
+    "windchimes:windchime-copper-ambient": "[Metal chimes clinking]",
+    "windchimes:windchime-copper-hit": "[Loud metal chimes clinking]",
+    "windchimes:windchime-crystal-default": "[Soft, melodic chiming]",
+    "windchimes:windchime-crystal-ambient": "[Soft, melodic chiming]",
+    "windchimes:windchime-crystal-hit": "[Loud, melodic chiming]"
 }
