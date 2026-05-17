@@ -173,8 +173,8 @@
     {
         "name": "Stone Bake Oven",
         "modid": "stonebakeoven",
-        "version": "1.2.3",
-        "lastUpdated": "2026-05-07"
+        "version": "1.3.0",
+        "lastUpdated": "2026-05-17"
     },
     {
         "name": "Fields of Salt",
@@ -545,14 +545,14 @@
     {
         "name": "Window Storage",
         "modid": "windowstorage",
-        "version": "1.8.2",
+        "version": "1.8.25",
         "lastUpdated": "2026-05-17"
     },
     {
         "name": "Vanilla Pane Storage",
         "modid": "vanillapanestorage",
-        "version": "1.8.1",
-        "lastUpdated": "2026-05-04"
+        "version": "1.8.2",
+        "lastUpdated": "2026-05-17"
     },
     {
         "name": "Config lib",
