@@ -522,5 +522,10 @@
     "block-woodenpost-yew-debarked-*": "Okorowany drewniany słup (cis)",
     "block-woodenposttorchholder-yew-debarked-*": "Okorowany drewniany słup z uchwytem na pochodnię (cis)",
     "block-woodenbeam-yew-debarked-*": "Okorowana drewniana belka (cis)",
-    "block-decorbeam-yew-debarked-*": "Okorowana dekoracyjna drewniana belka (cis)"
+    "block-decorbeam-yew-debarked-*": "Okorowana dekoracyjna drewniana belka (cis)",
+    "block-woodenpost-*-*-empty": "Drewniany słup",
+    "block-woodenposttorchholder-*": "Drewniany słup z uchwytem na pochodnię",
+    "block-woodenpost-*": "Drewniany słup",
+    "block-woodenbeam-*": "Drewniana belka",
+    "block-decorbeam-*": "Dekoracyjna drewniana belka"
 }

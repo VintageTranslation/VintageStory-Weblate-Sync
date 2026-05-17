@@ -11,7 +11,7 @@
     "block-glidermount-*": "Uchwyt na lotnie",
     "block-weaponrack-*": "Stojak na broń",
     "block-gearrack-*": "Stojak na zębatki",
-    "block-resourcebin-*": "Kosz na trawę",
+    "block-resourcebin-*": "Kosz na zasoby",
     "block-pantsrack-*": "Regał na spodnie",
     "block-gloverack-*": "Wieszak na rękawice",
     "block-necklacestand-*": "Wieszak na naszyjniki",
@@ -30,7 +30,7 @@
     "helddesc-glidermount": "Uchwyt na twoją lotnię!",
     "helddesc-weaponrack": "Może przechowywać większość broni długiej!",
     "helddesc-gearrack": "Może przechowywać zębatki!",
-    "helddesc-resourcebin": "Może przechowywać suchą trawę!",
+    "helddesc-resourcebin": "Można w nim przechowywać suchą trawę, patyki, kamienie, bryłki rudy i samorodki!",
     "helddesc-pantsrack": "Może przechowywać wszystkie rodzaje spodni!",
     "helddesc-gloverack": "Może przechowywać większość rękawic, ochraniaczy i bransolet!",
     "helddesc-necklacestand": "Może przechowywać większość naszyjników!",
@@ -42,5 +42,7 @@
     "helddesc-medallionrack": "Wyeksponuj medaliony przynależności, broszki, przypinki i odznaki!",
     "block-spearrack-*": "Stojak na włócznie",
     "helddesc-spearrack": "Zostaw swoje włócznie w łatwo dostępnym miejscu!",
-    "This item is not of the same type as the item in the container!": "Ten przedmiot nie jest tego samego typu co przedmiot w pojemniku!"
+    "This item is not of the same type as the item in the container!": "Ten przedmiot nie jest tego samego typu co przedmiot w pojemniku!",
+    "block-swordplaque-*": "Plakieta na miecz",
+    "helddesc-swordplaque": "Zawieś swój ulubiony miecz!"
 }

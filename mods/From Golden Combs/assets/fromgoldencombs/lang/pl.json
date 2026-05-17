@@ -126,5 +126,7 @@
     "fromgoldencombs:nonemptysuper": "Korpus miodowy musi być pusty, aby można go było przekształcić w korpus gniazdowy.",
     "game:tabname-fromgoldencombs": "From Golden Combs",
     "game:handbook-category-fromgoldencombs": "From Golden Combs",
-    "blockhelp-hivetop-*-raw": "Wypal w piecu jamowym."
+    "blockhelp-hivetop-*-raw": "Wypal w piecu jamowym.",
+    "linedframes": "Wyłożone ramki:",
+    "allframesfilled": "Wszystkie ramki są wypełnione pysznymi plastrami miodu."
 }

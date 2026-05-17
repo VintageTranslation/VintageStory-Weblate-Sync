@@ -379,5 +379,13 @@
     "tailorsdelight:item-ruler-tigerwood": "Linijka (drzewo tygrysie)",
     "tailorsdelight:item-ruler-sapele": "Linijka (sapele)",
     "tailorsdelight:item-ruler-ash": "Linijka (jesion)",
-    "tailorsdelight:item-ruler-mangrove": "Linijka (awicenia)"
+    "tailorsdelight:item-ruler-mangrove": "Linijka (awicenia)",
+    "game:tabname-ceramics": "Ceramika",
+    "tailorsdelight:setting_enable_vs_recipe_patches": "Włącz modyfikacje receptur VS",
+    "tailorsdelight:setting_enable_vs_recipe_patches_comment": "Modyfikować podstawowe receptury VS tak, aby używały przedmiotów z Tailor's Delight, takich jak igły lub skóra?",
+    "tailorsdelight:settings_patches": "Modyfikacje receptur",
+    "tailorsdelight:item-ruler-veryaged": "Spróchniała linijka",
+    "tailorsdelight:item-down-plain": "Puch",
+    "tailorsdelight:itemdesc-down-plain": "Oskubane pióra.",
+    "tailorsdelight:handbook-item-down": "Puch i kawałki dutek z ptasich piór."
 }
