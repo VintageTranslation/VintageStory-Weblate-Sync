@@ -307,5 +307,9 @@
     "item-deadelephantidae-*": "Słoniowaty (martwy)",
     "item-deadsirenia-*": "Siren (martwy)",
     "item-deadcervini-*": "Cervini (martwy)",
-    "corpse-now-rotten": "Nie można już oprawić tej tuszy."
+    "corpse-now-rotten": "Nie można już oprawić tej tuszy.",
+    "game:meal-ingredient-soup-primary-primemeat-raw": "wybornego mięsa",
+    "game:meal-ingredient-soup-primary-smoked-none-primemeat": "wędzonego wybornego mięsa",
+    "game:meal-ingredient-soup-primary-smoked-*-redmeat": "wędzonego czerwonego mięsa",
+    "game:meal-ingredient-soup-primary-smoked-*-fish": "wędzonej ryby"
 }

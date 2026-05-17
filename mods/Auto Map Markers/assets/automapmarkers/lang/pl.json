@@ -82,5 +82,6 @@
     "egocarib-mapmarkers:trader-furniture": "Handlarz meblami",
     "egocarib-mapmarkers:trader-luxuries": "Handlarz towarami luksusowymi",
     "egocarib-mapmarkers:trader-survivalgoods": "Handlarz towarami survivalowymi",
-    "egocarib-mapmarkers:trader-treasurehunter": "Łowca skarbów"
+    "egocarib-mapmarkers:trader-treasurehunter": "Łowca skarbów",
+    "egocarib-mapmarkers:coverage-radius": "Zasięg"
 }

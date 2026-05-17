@@ -16,5 +16,13 @@
     "frozen": "{0} (zamarznięty)",
     "item-icecubes": "Kostki lodu",
     "icecubes-dynamicdesc": "Powstałe przez rozbicie na małe kawałki {0}",
-    "icecubes-dye-*": "Jakie kolorowe!"
+    "icecubes-dye-*": "Jakie kolorowe!",
+    "handbook-processesinto-transition-freeze-hours": "Po około {p0:mniej niż godzinie|godzinie|# godzinach} zamarza w",
+    "handbook-processesinto-transition-freeze-days": "Po około {p0:|jednym dniu|# dniach} zamarza w",
+    "handbook-processesinto-transition-freeze-years": "Po około {p0:|roku|# latach} zamarza w",
+    "handbook-createdby-transition-freeze": "Zamarzanie",
+    "handbook-processesinto-transition-melt-hours": "Po około {p0:mniej niż godzinie|godzinie|# godzinach} roztapia się w",
+    "handbook-processesinto-transition-melt-days": "Po około {p0:|jednym dniu|# dniach} roztapia się w",
+    "handbook-processesinto-transition-melt-years": "Po około {p0:|roku|# latach} roztapia się w",
+    "handbook-createdby-transition-melt": "Topnienie"
 }
