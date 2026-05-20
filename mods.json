@@ -72,8 +72,8 @@
     {
         "name": "Expanded Foods",
         "modid": "expandedfoods",
-        "version": "2.0.0-dev.7",
-        "lastUpdated": "2026-01-14"
+        "version": "2.0.0-dev.8",
+        "lastUpdated": "2026-05-20"
     },
     {
         "name": "Playerlist Revived",
@@ -337,8 +337,8 @@
     {
         "name": "Hydrate or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.4.10",
-        "lastUpdated": "2026-05-17"
+        "version": "2.4.11",
+        "lastUpdated": "2026-05-20"
     },
     {
         "name": "Immersive Rope Crafting",
