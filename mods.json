@@ -349,8 +349,8 @@
     {
         "name": "In Dappled Groves",
         "modid": "indappledgroves",
-        "version": "3.0.0-rc.1",
-        "lastUpdated": "2026-05-10"
+        "version": "3.0.0-rc.2",
+        "lastUpdated": "2026-05-24"
     },
     {
         "name": "Jack's Composting",
@@ -433,8 +433,8 @@
     {
         "name": "Immersive Fibercraft",
         "modid": "spinningwheel",
-        "version": "1.2.4",
-        "lastUpdated": "2026-05-22"
+        "version": "1.2.5",
+        "lastUpdated": "2026-05-24"
     },
     {
         "name": "Quicklime in Kiln",
