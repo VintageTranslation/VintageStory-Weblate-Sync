@@ -149,8 +149,8 @@
     {
         "name": "Butchering",
         "modid": "butchering",
-        "version": "1.13.3",
-        "lastUpdated": "2026-05-15"
+        "version": "1.13.4",
+        "lastUpdated": "2026-05-27"
     },
     {
         "name": "Expanded Matter",
@@ -516,8 +516,8 @@
     {
         "name": "Bookbinders",
         "modid": "bookbinders",
-        "version": "1.4.0",
-        "lastUpdated": "2026-01-17"
+        "version": "1.5.0",
+        "lastUpdated": "2026-05-27"
     },
     {
         "name": "VS Roofing Mod",
