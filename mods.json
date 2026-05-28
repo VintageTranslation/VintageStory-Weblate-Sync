@@ -66,8 +66,8 @@
     {
         "name": "A Culinary Artillery",
         "modid": "aculinaryartillery",
-        "version": "2.0.0-dev.16",
-        "lastUpdated": "2026-05-24"
+        "version": "2.0.0-dev.17",
+        "lastUpdated": "2026-05-28"
     },
     {
         "name": "Expanded Foods",
@@ -119,8 +119,8 @@
     {
         "name": "Toolsmith",
         "modid": "toolsmith",
-        "version": "1.2.16",
-        "lastUpdated": "2026-05-16"
+        "version": "1.2.17",
+        "lastUpdated": "2026-05-28"
     },
     {
         "name": "Smithing Plus",
@@ -433,8 +433,8 @@
     {
         "name": "Immersive Fibercraft",
         "modid": "spinningwheel",
-        "version": "1.2.6",
-        "lastUpdated": "2026-05-26"
+        "version": "1.2.7",
+        "lastUpdated": "2026-05-28"
     },
     {
         "name": "Quicklime in Kiln",
