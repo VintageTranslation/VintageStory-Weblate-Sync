@@ -20,8 +20,8 @@
     {
         "name": "From Golden Combs",
         "modid": "fromgoldencombs",
-        "version": "2.0.5",
-        "lastUpdated": "2026-05-20"
+        "version": "2.0.6",
+        "lastUpdated": "2026-05-30"
     },
     {
         "name": "Toggle Mouse Control",
@@ -349,8 +349,8 @@
     {
         "name": "In Dappled Groves",
         "modid": "indappledgroves",
-        "version": "3.0.0-rc.2",
-        "lastUpdated": "2026-05-24"
+        "version": "3.0.1-rc.5",
+        "lastUpdated": "2026-05-30"
     },
     {
         "name": "Jack's Composting",
@@ -609,8 +609,8 @@
     {
         "name": "Material Needs Geology",
         "modid": "mngeology",
-        "version": "2.0.6",
-        "lastUpdated": "2026-05-21"
+        "version": "2.0.7",
+        "lastUpdated": "2026-05-30"
     },
     {
         "name": "Axle in blocks",
