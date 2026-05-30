@@ -8,8 +8,8 @@
     {
         "name": "Food Shelves",
         "modid": "foodshelves",
-        "version": "3.0.3",
-        "lastUpdated": "2026-05-18"
+        "version": "3.0.4",
+        "lastUpdated": "2026-05-30"
     },
     {
         "name": "Purposeful Storage",
@@ -469,8 +469,8 @@
     {
         "name": "Genelib",
         "modid": "genelib",
-        "version": "3.0.2",
-        "lastUpdated": "2026-04-29"
+        "version": "3.1.0",
+        "lastUpdated": "2026-05-30"
     },
     {
         "name": "Truth and Beauty Detailed Animals",
