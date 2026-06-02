@@ -179,7 +179,8 @@
     {
         "name": "Fields of Salt",
         "modid": "fieldsofsalt",
-        "version": "1.2.4"
+        "version": "1.2.5",
+        "lastUpdated": "2026-06-02"
     },
     {
         "name": "Real Grapes",
@@ -433,8 +434,8 @@
     {
         "name": "Immersive Fibercraft",
         "modid": "spinningwheel",
-        "version": "1.2.8",
-        "lastUpdated": "2026-06-01"
+        "version": "1.2.9",
+        "lastUpdated": "2026-06-02"
     },
     {
         "name": "Quicklime in Kiln",
