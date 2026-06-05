@@ -1,1 +1,15 @@
-{}
+{
+    "block-brazier-scrap": "Mały koksownik ze złomu",
+    "block-brazier-copper": "Mały koksownik z miedzi",
+    "block-brazier-blackbronze": "Mały koksownik z brązu korynckiego",
+    "block-brazier-iron": "Mały koksownik z żelaza",
+    "block-brazier-meteoriciron": "Mały koksownik z żelaza meteorytowego",
+    "block-brazier-steel": "Mały koksownik ze stali",
+    "block-firecage-scrap": "Duży koksownik ze złomu",
+    "block-firecage-copper": "Duży koksownik z miedzi",
+    "block-firecage-blackbronze": "Duży koksownik z brązu korynckiego",
+    "block-firecage-iron": "Duży koksownik z żelaza",
+    "block-firecage-meteoriciron": "Duży koksownik z żelaza meteorytowego",
+    "block-firecage-steel": "Duży koksownik ze stali",
+    "game:tabname-DR": "DR"
+}
