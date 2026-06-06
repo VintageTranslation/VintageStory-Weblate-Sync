@@ -30,7 +30,7 @@
     "wool:setting_enable_soil": "Ulepszanie żyzności gleby",
     "wool:setting_enable_soil_comment": "Czy glebę o wyższej żyzności można wytwarzać z użyciem organicznego nawozu?",
     "wool:gamemechanicinfo-animalshearing-title": "Mechanika gry: Strzyżenie zwierząt",
-    "wool:gamemechanicinfo-animalshearing-text": "<strong>Hodowla zwierząt - wełna i strzyżenie</strong><br><br>Niektóre udomowione zwierzęta można ostrzyc, aby pozyskać z nich runo. <br>Zwierzę musi być żywe i z co najmniej 3 pokolenia, ale runo można też pozyskać z martwych zwierząt. <br>Dla najlepszych rezultatów używaj nożyc. Alternatywnie można użyć noża, jednak wtedy rośnie szansa zranienia zwierzęcia podczas strzyżenia. <br>Zwierzęta potrzebują czasu, aby ponownie odrosło im runo. Bardziej udomowionym odrasta szybciej i są mniej narażone na zranienie podczas strzyżenia.<br><br>Rodzaj i kolor runa zależą od gatunku zwierzęcia. Niektóre mogą dawać nawet dwa kolory naraz!<br><br><strong>Konfiguracja</strong><br><br>To, które gatunki zwierząt można strzyc, zależy od konfiguracji moda. Aby ją zmienić, musisz mieć zainstalowane mody <strong><font color='#4080a0'>ConfigLib</font></strong> i <strong><font color='#4080a0'>ImGui</font></strong>. <br>Domyślnie można strzyc owce wielkorogie, kozy, gazele, wapiti, łosie oraz jelenie.",
+    "wool:gamemechanicinfo-animalshearing-text": "<strong>Hodowla zwierząt - wełna i strzyżenie</strong><br><br>Niektóre udomowione zwierzęta można ostrzyc, aby pozyskać z nich runo. <br>Zwierzę musi być żywe i z co najmniej 1 pokolenia, ale runo można też pozyskać z martwych zwierząt. <br>Dla najlepszych rezultatów używaj nożyc. Alternatywnie można użyć noża, jednak wtedy rośnie szansa zranienia zwierzęcia podczas strzyżenia. <br>Zwierzęta potrzebują czasu, aby ponownie odrosło im runo. Bardziej udomowionym odrasta szybciej i są mniej narażone na zranienie podczas strzyżenia.<br><br>Rodzaj i kolor runa zależą od gatunku zwierzęcia. Niektóre mogą dawać nawet dwa kolory naraz!<br><br><strong>Konfiguracja</strong><br><br>To, które gatunki zwierząt można strzyc, zależy od konfiguracji moda. Aby ją zmienić, musisz mieć zainstalowane mody <strong><font color='#4080a0'>ConfigLib</font></strong> i <strong><font color='#4080a0'>ImGui</font></strong>. <br>Domyślnie można strzyc owce wielkorogie, kozy, gazele, wapiti, łosie oraz jelenie.",
     "wool:gamemechanicinfo-woolknitting-title": "Mechanika gry: Kolorowa wełna i robienie na drutach",
     "wool:gamemechanicinfo-woolknitting-text": "<strong>Wełna i robienie na drutach</strong><br><br>Aby wytworzyć wełnę, wymocz surowe zwierzęce runo w wodzie wapiennej. Otrzymane w ten sposób włókna wełny można następnie skręcić w sznurek wełniany lub czasem użyć bezpośrednio do dziergania. <br><br><strong>Kolorowa wełna</strong><br><br>Aby zafarbować wełnę, potrzebujesz sznurka lub tkaniny z wełny. Najpierw zapraw je w beczce rozcieńczonym boraksem, chromitem lub kasyterytem. Tak zaprawiony sznurek lub tkaninę można następnie zapieczętować w beczce z wybranym barwnikiem.",
     "wool:item-fleece-angora-white": "Runo moherowe",
@@ -58,7 +58,7 @@
     "wool:item-fertilizer-organic-wool": "Organiczny nawóz z wełny",
     "wool:itemdesc-fertilizer-organic-wool": "Wykonany z nieoczyszczonego zwierzęcego włosia i runa.",
     "wool:item-fertilizer-organic-horn": "Wióry z rogów",
-    "wool:itemdesc-fertilizer-organic-horn": "Nawóz wykonany z rogów zwierząt.",
+    "wool:itemdesc-fertilizer-organic-horn": "Organiczny nawóz wykonany z rogów zwierząt.",
     "wool:item-fibers-angora-white": "Włókna moherowe",
     "wool:item-fibers-muskox-brown": "Włókna z runa woła piżmowego",
     "wool:item-fibers-generic-plain": "Jasne wełniane włókna",
@@ -188,5 +188,9 @@
     "wool:item-clothes-lowerbody-leggings-noble": "Ciepłe nogawice szlachcica",
     "wool:item-clothes-lowerbody-leggings-game": "Ciepłe nogawice łowcy",
     "game:handbook-leggings-noble": "Zrobione na drutach z drogiej barwionej na różowo wełny. Najnowszy krzyk szlacheckiej mody, uwielbiana zarówno przez książąt, jak i księżniczki.",
-    "game:handbook-leggings-game": "Zrobione na drutach z bardzo delikatnej jeleniej i koziej wełny, pozyskiwanej z ciepłego runa z podbrzusza."
+    "game:handbook-leggings-game": "Zrobione na drutach z bardzo delikatnej jeleniej i koziej wełny, pozyskiwanej z ciepłego runa z podbrzusza.",
+    "wool:item-fertilizer-organic-fish": "Mączka rybna",
+    "wool:itemdesc-fertilizer-organic-fish": "Organiczny nawóz wytwarzany z suszonych ryb.",
+    "wool:item-fertilizer-organic-feather": "Mączka z piór",
+    "wool:itemdesc-fertilizer-organic-feather": "Organiczny nawóz wytwarzany z ptasich piór i puchu."
 }
