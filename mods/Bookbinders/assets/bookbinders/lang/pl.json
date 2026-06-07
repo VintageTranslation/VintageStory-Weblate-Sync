@@ -29,5 +29,6 @@
     "bookbinders:item-book-normal-darkred": "Ciemnoczerwona książka",
     "bookbinders:item-book-normal-white": "Biała książka",
     "bookbinders:handbook-item-parchment-papyrus": "Można na nim pisać lub wykorzystać go do tworzenia książek.",
-    "bookbinders:handbook-item-parchment-vellum": "Można na nim pisać lub wykorzystać go do tworzenia książek."
+    "bookbinders:handbook-item-parchment-vellum": "Można na nim pisać lub wykorzystać go do tworzenia książek.",
+    "bookbinders:itemdesc-signature-*": "Złożone i perforowane arkusze tworzące składkę książki"
 }
