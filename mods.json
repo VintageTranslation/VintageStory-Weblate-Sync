@@ -340,8 +340,8 @@
     {
         "name": "Hydrate or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.4.12",
-        "lastUpdated": "2026-05-21"
+        "version": "2.4.13",
+        "lastUpdated": "2026-06-16"
     },
     {
         "name": "Immersive Rope Crafting",
@@ -524,8 +524,8 @@
     {
         "name": "VS Roofing Mod",
         "modid": "vsroofing",
-        "version": "1.5.7",
-        "lastUpdated": "2026-05-27"
+        "version": "1.6.1",
+        "lastUpdated": "2026-06-16"
     },
     {
         "name": "Clothier's Heirlooms",
