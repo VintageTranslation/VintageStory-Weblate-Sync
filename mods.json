@@ -143,8 +143,8 @@
     {
         "name": "Wool & More",
         "modid": "wool",
-        "version": "1.9.2",
-        "lastUpdated": "2026-05-20"
+        "version": "1.9.3",
+        "lastUpdated": "2026-06-20"
     },
     {
         "name": "Butchering",
@@ -340,8 +340,8 @@
     {
         "name": "Hydrate or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.4.13",
-        "lastUpdated": "2026-06-16"
+        "version": "2.4.14",
+        "lastUpdated": "2026-06-20"
     },
     {
         "name": "Immersive Rope Crafting",
@@ -411,8 +411,8 @@
     {
         "name": "Wear And Tear",
         "modid": "wearandtear",
-        "version": "1.5.22",
-        "lastUpdated": "2026-06-05"
+        "version": "1.5.23",
+        "lastUpdated": "2026-06-20"
     },
     {
         "name": "Wind Chimes",
