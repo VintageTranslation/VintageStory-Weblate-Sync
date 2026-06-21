@@ -3,5 +3,6 @@
     "block-vanillapanestorage-vanilla": "Vanilla Style Pane with Storage",
     "block-vanillapanestorage-plank": "Plank Window with Storage",
     "block-vanillapanestorage-wattle": "Wattle Style Window with Storage",
-    "block-vanillapanestorage-shelf": "Vanilla Style Pane with Dislay Unit"
+    "block-vanillapanestorage-shelf": "Vanilla Style Pane with Display Unit",
+    "block-vanillapanestorage-acorner": "Vanilla Style Corner Pane with Slot"
 }

@@ -554,8 +554,8 @@
     {
         "name": "Vanilla Pane Storage",
         "modid": "vanillapanestorage",
-        "version": "1.8.4",
-        "lastUpdated": "2026-06-13"
+        "version": "1.8.5",
+        "lastUpdated": "2026-06-21"
     },
     {
         "name": "Config lib",
