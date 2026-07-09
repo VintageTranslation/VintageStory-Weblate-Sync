@@ -453,8 +453,8 @@
     {
         "name": "RespawnInfo",
         "modid": "rpcommand",
-        "version": "2.0.1",
-        "lastUpdated": "2026-01-10"
+        "version": "2.0.3",
+        "lastUpdated": "2026-07-09"
     },
     {
         "name": "Brick and Shingles Mold",

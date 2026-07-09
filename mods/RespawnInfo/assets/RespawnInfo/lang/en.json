@@ -1,5 +1,5 @@
 {
-    "rp": "Number of respawn: {0}",
+    "rp": "Remaining respawns: {0}",
     "infrp": "Infinite respawn",
     "norp": "You have not set any respawn points!",
     "rpcoord": "Respawn Coordinates:\n{0}, {1}, {2}",
