@@ -368,8 +368,8 @@
     {
         "name": "Jaunt Entity Movement System",
         "modid": "jaunt",
-        "version": "3.0.0-rc.3",
-        "lastUpdated": "2026-03-28"
+        "version": "3.1.0",
+        "lastUpdated": "2026-07-15"
     },
     {
         "name": "Helve Axe addon for In dappled Groves",
