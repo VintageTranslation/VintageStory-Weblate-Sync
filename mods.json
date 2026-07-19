@@ -524,8 +524,8 @@
     {
         "name": "VS Roofing Mod",
         "modid": "vsroofing",
-        "version": "1.6.4",
-        "lastUpdated": "2026-07-17"
+        "version": "1.6.5",
+        "lastUpdated": "2026-07-19"
     },
     {
         "name": "Clothier's Heirlooms",
@@ -600,13 +600,14 @@
     {
         "name": "Material Needs",
         "modid": "materialneeds",
-        "version": "1.1.16",
-        "lastUpdated": "2026-05-04"
+        "version": "2.0.0",
+        "lastUpdated": "2026-07-19"
     },
     {
         "name": "Material Needs Flowers",
         "modid": "mnflowers",
-        "version": ""
+        "version": "2.0.0",
+        "lastUpdated": "2026-07-19"
     },
     {
         "name": "Material Needs Geology",
