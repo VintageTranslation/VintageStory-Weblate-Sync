@@ -340,8 +340,8 @@
     {
         "name": "Hydrate or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.4.14",
-        "lastUpdated": "2026-06-20"
+        "version": "2.5.0",
+        "lastUpdated": "2026-07-20"
     },
     {
         "name": "Immersive Rope Crafting",
@@ -588,8 +588,8 @@
     {
         "name": "More Lanterns",
         "modid": "apelanterns",
-        "version": "1.4.1",
-        "lastUpdated": "2026-05-18"
+        "version": "1.4.2",
+        "lastUpdated": "2026-07-20"
     },
     {
         "name": "Braziers",
