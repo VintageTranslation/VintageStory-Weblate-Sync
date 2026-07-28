@@ -340,8 +340,8 @@
     {
         "name": "Hydrate or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.5.2",
-        "lastUpdated": "2026-07-25"
+        "version": "2.5.3",
+        "lastUpdated": "2026-07-28"
     },
     {
         "name": "Immersive Rope Crafting",
@@ -494,8 +494,8 @@
     {
         "name": "Olla",
         "modid": "olla",
-        "version": "1.0.0",
-        "lastUpdated": "2026-01-10"
+        "version": "1.1.0",
+        "lastUpdated": "2026-07-28"
     },
     {
         "name": "Adventurer's Walking Stick",
