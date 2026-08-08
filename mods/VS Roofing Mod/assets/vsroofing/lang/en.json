@@ -5,6 +5,8 @@
     "wrong-item": "Wrong item/tool in offhand.",
     "missing-material": "Missing materials for construction.",
     "invalid-frame": "Slope is too high for roofing material.",
+    "missing-daub": "Missing daub.",
+    "duplicate-daub": "Block already contains wattle and daub.",
     "place-frame": "Build roofing frame",
     "place-frame-standard": "Standard",
     "place-frame-standard-left": "Standard Left",
