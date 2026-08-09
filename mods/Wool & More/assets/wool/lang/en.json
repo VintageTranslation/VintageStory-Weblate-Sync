@@ -192,5 +192,15 @@
     "wool:item-sack-wool-gray": "Gray woolen sack",
     "wool:item-sack-wool-brown": "Brown woolen sack",
     "wool:item-sack-wool-white": "White woolen sack",
-    "wool:itemdesc-sack-*": "Increases the amount of items you can carry"
+    "wool:itemdesc-sack-*": "Increases the amount of items you can carry",
+    "game:item-poultice-linen-honey-sulfur": "Honey-sulfur poultice (from cloth)",
+    "game:item-poultice-linen-horsetail": "Horsetail Poultice (from cloth)",
+    "wildcraftfruit:item-poultice-linen-falseorange": "False orange poultice (from cloth)",
+    "wildcraftfruit:item-poultice-linen-snowberry": "Snowberry poultice (from cloth)",
+    "wildcraftfruit:item-poultice-linen-bryony": "Bryony poultice (from cloth)",
+    "wildcraftfruit:item-poultice-linen-resin-elder": "Elderflower-pine resin poultice (from cloth)",
+    "wildcraftfruit:item-poultice-linen-ivy-vinegar": "Ivy-vinegar poultice (from cloth)",
+    "wildcraftfruit:item-poultice-linen-baneberry": "Baneberry poultice (from cloth)",
+    "wildcraftfruit:item-poultice-linen-bearberry": "Bearberry poultice (from cloth)",
+    "wildcraftfruit:item-poultice-linen-honey-pepper": "Honey-pepper poultice (from cloth)"
 }
