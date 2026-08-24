@@ -149,8 +149,8 @@
     {
         "name": "Butchering",
         "modid": "butchering",
-        "version": "1.14.0",
-        "lastUpdated": "2026-08-23"
+        "version": "1.14.1",
+        "lastUpdated": "2026-08-24"
     },
     {
         "name": "Expanded Matter",
@@ -494,8 +494,8 @@
     {
         "name": "Olla",
         "modid": "olla",
-        "version": "1.2.0",
-        "lastUpdated": "2026-08-22"
+        "version": "1.3.0",
+        "lastUpdated": "2026-08-24"
     },
     {
         "name": "Adventurer's Walking Stick",
