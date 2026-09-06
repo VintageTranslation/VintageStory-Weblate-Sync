@@ -131,8 +131,8 @@
     {
         "name": "CAN Jewelry",
         "modid": "canjewelry",
-        "version": "0.7.4",
-        "lastUpdated": "2026-09-05"
+        "version": "0.7.5",
+        "lastUpdated": "2026-09-06"
     },
     {
         "name": "ShearLib",
@@ -143,8 +143,8 @@
     {
         "name": "Wool & More",
         "modid": "wool",
-        "version": "1.9.5",
-        "lastUpdated": "2026-08-21"
+        "version": "1.9.6",
+        "lastUpdated": "2026-09-06"
     },
     {
         "name": "Butchering",
