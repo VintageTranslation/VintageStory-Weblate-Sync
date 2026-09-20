@@ -37,8 +37,8 @@
     {
         "name": "Millwright",
         "modid": "millwright",
-        "version": "1.3.4",
-        "lastUpdated": "2026-07-23"
+        "version": "1.3.5",
+        "lastUpdated": "2026-09-20"
     },
     {
         "name": "Herbarium",
@@ -131,8 +131,8 @@
     {
         "name": "CAN Jewelry",
         "modid": "canjewelry",
-        "version": "0.7.7",
-        "lastUpdated": "2026-09-14"
+        "version": "0.7.9",
+        "lastUpdated": "2026-09-20"
     },
     {
         "name": "ShearLib",
