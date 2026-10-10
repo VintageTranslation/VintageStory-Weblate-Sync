@@ -1,5 +1,8 @@
 {
     "item-wastepile": "Organic Wastepile",
-    "itemdesc-wastepile": "This mix of grass and rot can decompose efficiently in a barrel.",
-    "game:itemdesc-rot": "Unrecognizable food.  Can be mixed with dry grass or thatch as a starting point for compost."
+    "itemdesc-wastepile": "This mix of rot and dry plant debris can decompose into compost.",
+    "item-handbooktitle-wastepile": "To Compost",
+    "item-handbooktext-wastepile": "This is a mixture of 'green' (nitrogen) and 'brown' (carbon) composting materials that will break down efficiently into compost.  Simply leave it on the ground or in any container to perish naturally into compost.  This will transform 6 units of wastepile to a unit of compost.  Perish time varies greatly due to exposure to outside temperatures.  The average of about 27 days can pertain to an average temperate spring/fall season (~20C highs), while hot and cold climates and seasons will speed it up or down respectively.  Composting the wastepile in a barrel protects it from the environment and pests, producing more consistant results.",
+    "item-plantdebris-leafydry": "Dry plant debris",
+    "itemdesc-plantdebris-leafydry": "Can be used as a 'brown' material in composting."
 }
