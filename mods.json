@@ -680,5 +680,9 @@
         "modid": "quiversandsheaths",
         "version": "0.8.7",
         "lastUpdated": "2026-02-28"
+    },
+    {
+        "name": "De Artibus Rusticis",
+        "modid": "deartibusrusticis"
     }
 ]
