@@ -683,6 +683,8 @@
     },
     {
         "name": "De Artibus Rusticis",
-        "modid": "deartibusrusticis"
+        "modid": "deartibusrusticis",
+        "version": "0.9.5",
+        "lastUpdated": "2026-10-14"
     }
 ]
