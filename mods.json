@@ -334,8 +334,8 @@
     {
         "name": "Gourmand",
         "modid": "gourmand",
-        "version": "1.9.5",
-        "lastUpdated": "2026-10-24"
+        "version": "1.9.6",
+        "lastUpdated": "2026-10-31"
     },
     {
         "name": "Hydrate or Diedrate",
@@ -507,8 +507,8 @@
     {
         "name": "Mycodiversity",
         "modid": "mycodiversity",
-        "version": "1.0.8",
-        "lastUpdated": "2026-07-22"
+        "version": "1.0.9",
+        "lastUpdated": "2026-10-31"
     },
     {
         "name": "Posts and Beams",
