@@ -501,8 +501,8 @@
     {
         "name": "Adventurer's Walking Stick",
         "modid": "walkingstick",
-        "version": "3.0.10",
-        "lastUpdated": "2026-07-21"
+        "version": "3.0.11",
+        "lastUpdated": "2026-11-13"
     },
     {
         "name": "Mycodiversity",
@@ -684,7 +684,7 @@
     {
         "name": "De Artibus Rusticis",
         "modid": "deartibusrusticis",
-        "version": "0.9.6",
-        "lastUpdated": "2026-11-05"
+        "version": "0.9.7",
+        "lastUpdated": "2026-11-13"
     }
 ]
