@@ -131,8 +131,8 @@
     {
         "name": "CAN Jewelry",
         "modid": "canjewelry",
-        "version": "0.8.0",
-        "lastUpdated": "2026-10-31"
+        "version": "0.8.2",
+        "lastUpdated": "2026-11-14"
     },
     {
         "name": "ShearLib",
@@ -501,8 +501,8 @@
     {
         "name": "Adventurer's Walking Stick",
         "modid": "walkingstick",
-        "version": "3.0.11",
-        "lastUpdated": "2026-11-13"
+        "version": "3.0.12",
+        "lastUpdated": "2026-11-14"
     },
     {
         "name": "Mycodiversity",
@@ -684,7 +684,7 @@
     {
         "name": "De Artibus Rusticis",
         "modid": "deartibusrusticis",
-        "version": "0.9.7",
-        "lastUpdated": "2026-11-13"
+        "version": "0.9.71",
+        "lastUpdated": "2026-11-14"
     }
 ]
