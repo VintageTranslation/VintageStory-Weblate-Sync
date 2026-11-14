@@ -313,7 +313,7 @@
     "game:handbook-item-usage-powdered-ore-hematite": "Powdered iron oxide, creates orange or red colors.",
     "game:handbook-item-usage-powdered-ore-ilmenite": "Raw titanium can be added to glass batches to create deeper colors.",
     "game:handbook-item-usage-powdered-ore-indigo": "Creates a strong blue dye, which can dye cloth without needing an mordant.",
-    "game:handbook-item-usage-powdered-ore-iodine": "An antisepticum.",
+    "game:handbook-item-usage-powdered-ore-iodine": "An antisepticum.<br> -&gt; Install the mod <font color=\"#99c9f9\"><i>Vintage Healing</i></font> to make use of it.",
     "game:handbook-item-usage-powdered-ore-kernite": "Seal in a barrel with water to turn it into borax.",
     "game:handbook-item-usage-powdered-ore-lapislazuli": "Lapis lazuli ground to a fine powder. Creates deep blue colors.",
     "game:handbook-item-usage-powdered-ore-leadoxide": "A mix of red and yellow lead oxides. Carefully heating and cooling it will turn this into bright yellow and red pigments.",

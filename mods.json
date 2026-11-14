@@ -155,8 +155,8 @@
     {
         "name": "Expanded Matter",
         "modid": "em",
-        "version": "3.8.2",
-        "lastUpdated": "2026-10-17"
+        "version": "3.8.3",
+        "lastUpdated": "2026-11-14"
     },
     {
         "name": "Tailor's Delight",
@@ -684,7 +684,7 @@
     {
         "name": "De Artibus Rusticis",
         "modid": "deartibusrusticis",
-        "version": "0.9.71",
+        "version": "0.9.72",
         "lastUpdated": "2026-11-14"
     }
 ]
